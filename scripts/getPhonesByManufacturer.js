@@ -1,6 +1,6 @@
 require("dotenv").config();
 const axios = require("axios");
-const manufacturers = require("./phones/manufacturers");
+const manufacturers = require("../phones/manufacturers");
 const fs = require("fs");
 const path = require("path");
 
