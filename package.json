@@ -13,7 +13,7 @@
     "db:restart": "npm run db:drop && npm run db:up",
     "docker:up": "docker-compose --env-file .env.docker up -d",
     "docker:down": "docker-compose down",
-    "build": "npm run docker:up && npm i && npm run db:up"
+    "initiate": "npm run docker:up && npm i && npm run db:up"
   },
   "keywords": [],
   "author": "",
