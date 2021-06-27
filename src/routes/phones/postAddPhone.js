@@ -21,8 +21,13 @@ module.exports = (db) => async (req, res, next) => {
   } = req.body;
 
   try {
-    if (!manufacturer || !name)
-      throw new Error("unable to add phone without manufacturer and name");
+    if (!manufacturer || !name) {
+      const error = new Error(
+        "unable to add phone without manufacturer and name"
+      );
+      error.code = 400;
+      throw error;
+    }
 
     const result = await postAddPhone(
       db,
@@ -50,7 +55,7 @@ module.exports = (db) => async (req, res, next) => {
 
     const { rows, rowCount } = result;
 
-    res.status(200).json({
+    res.status(201).json({
       success: true,
       count: rowCount,
       data: rows,
