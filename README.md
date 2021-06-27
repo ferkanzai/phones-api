@@ -40,6 +40,8 @@ As this is a technical test, I opted for the second one! For this, I searched on
 
 This data is the one used to populate the DB.
 
+Please, bear in mind, as this data was not controlled by me, there will be some other devices as smartwatches and tablets on top of phones, with more than 3000 items!
+
 ## 3. Project structure and libraries used
 
 ![phonesTree.png](phonesTree.png)
