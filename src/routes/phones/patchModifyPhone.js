@@ -21,6 +21,27 @@ module.exports = (db) => async (req, res, next) => {
   } = req.body;
 
   try {
+    if (
+      !name ||
+      !soc ||
+      !cpu ||
+      !ram ||
+      !gpu ||
+      !display_size ||
+      !display_type ||
+      !os ||
+      !storage ||
+      !usb_type ||
+      !weight ||
+      !dimensions ||
+      !rear_camera ||
+      !battery_size
+    ) {
+      const error = new Error("all fields are mandatory");
+      error.code = 400;
+      throw error;
+    }
+
     const result = await patchModifyPhone(
       db,
       phoneId,
