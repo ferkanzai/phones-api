@@ -10,9 +10,11 @@ services:
       POSTGRES_DB: "${DB}"
     volumes:
       - db-data:/var/lib/postgresql/data
+    restart: unless-stopped
   admin:
     image: adminer
     ports:
       - 8080:8080
+    restart: unless-stopped
 volumes:
   db-data:
