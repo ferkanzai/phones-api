@@ -10,7 +10,10 @@
     "db:drop": "node scripts/drops.js",
     "db:insert": "node scripts/insertions.js",
     "db:up": "npm run db:create && npm run db:insert",
-    "db:restart": "npm run db:drop && npm run db:up"
+    "db:restart": "npm run db:drop && npm run db:up",
+    "docker:up": "docker-compose --env-file .env.docker up -d",
+    "docker:down": "docker-compose down",
+    "build": "npm run docker:up && npm i && npm run db:up"
   },
   "keywords": [],
   "author": "",
