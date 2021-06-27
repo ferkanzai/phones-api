@@ -1,6 +1,10 @@
+# Phones API - React client
+
 ## Intro
 
 In this document I will try to explain the technical challenge details with all the endpoints created and how they work. This README file is for the API of the React code challenge
+
+Also, it is important to mentioned this API is deployed in Heroku at [https://fernando-phones-api.herokuapp.com/api/](https://fernando-phones-api.herokuapp.com/api/) so if you don't want to configure it locally you can skip that part.
 
 ## 1. Configure
 
@@ -91,6 +95,8 @@ When finished, in order to remove the data from the DB and the Docker containers
 I've configured a postman json file named `DCSLGuidesmiths.postman_collection.json` in case you want to import the collection to postman, which will make easier to have all endpoints configured as expected. Even though, I will explain all the endpoints next.
 
 All the endpoints URLs start with `{{HOST}}:{{PORT}}/api/`, being `HOST` and `PORT` two variables set up in the collection with values as `http://localthost` and `4000`.
+
+Bear in mind that if you are using the API deployed in Heroku, you will need either to change those variables or type the complete URL yourself.
 
 First of all, before explainig all the endpoints, just mentioned there is an error control in place, so if an endpoint is not found, will return a 404 error as follows:
 
