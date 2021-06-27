@@ -1,0 +1,183 @@
+{
+	"info": {
+		"_postman_id": "0dfa36ab-d674-4da3-9c11-f297ff91f66b",
+		"name": "DCSLGuidesmiths",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ping",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{HOST}}:{{PORT}}/api/ping",
+					"host": [
+						"{{HOST}}"
+					],
+					"port": "{{PORT}}",
+					"path": [
+						"api",
+						"ping"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET all phones",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{HOST}}:{{PORT}}/api/phones?page=12",
+					"host": [
+						"{{HOST}}"
+					],
+					"port": "{{PORT}}",
+					"path": [
+						"api",
+						"phones"
+					],
+					"query": [
+						{
+							"key": "limit",
+							"value": "30",
+							"disabled": true
+						},
+						{
+							"key": "page",
+							"value": "12"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET phone by ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{HOST}}:{{PORT}}/api/phones/:phoneId",
+					"host": [
+						"{{HOST}}"
+					],
+					"port": "{{PORT}}",
+					"path": [
+						"api",
+						"phones",
+						":phoneId"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					],
+					"variable": [
+						{
+							"key": "phoneId",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST add new phone",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Test Phone\",\r\n  \"manufacturer\": \"Apple\",\r\n  \"soc\": \"Test SOC\",\r\n  \"cpu\": \"Test CPU\",\r\n  \"ram\": \"Test RAM\",\r\n  \"gpu\": \"Test GPU\",\r\n  \"display_size\": 5.0,\r\n  \"display_type\": \"AMOLED\",\r\n  \"os\": \"Test OS\",\r\n  \"storage\": \"16 GB\",\r\n  \"usb_type\": \"Type C\",\r\n  \"weight\": \"200 g\",\r\n  \"dimensions\": \"whatever\",\r\n  \"main_camera\": \"two cameras\",\r\n  \"battery_size\": 4000\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{HOST}}:{{PORT}}/api/phones/add",
+					"host": [
+						"{{HOST}}"
+					],
+					"port": "{{PORT}}",
+					"path": [
+						"api",
+						"phones",
+						"add"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE remove phone by phone ID",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{HOST}}:{{PORT}}/api/phones/delete/:phoneId",
+					"host": [
+						"{{HOST}}"
+					],
+					"port": "{{PORT}}",
+					"path": [
+						"api",
+						"phones",
+						"delete",
+						":phoneId"
+					],
+					"variable": [
+						{
+							"key": "phoneId",
+							"value": "3075"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE remove phone by phone ID Copy",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Test Phone\",\r\n  \"soc\": \"Test SOC\",\r\n  \"cpu\": \"Test CPU\",\r\n  \"ram\": \"Test RAM\",\r\n  \"gpu\": \"Test GPU\",\r\n  \"display_size\": 5.0,\r\n  \"display_type\": \"AMOLED\",\r\n  \"os\": \"Test OS\",\r\n  \"storage\": \"16 GB\",\r\n  \"usb_type\": \"Type C\",\r\n  \"weight\": \"200 g\",\r\n  \"dimensions\": \"whatever\",\r\n  \"rear_camera\": \"two cameras\",\r\n  \"battery_size\": 4000\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{HOST}}:{{PORT}}/api/phones/edit/:phoneId",
+					"host": [
+						"{{HOST}}"
+					],
+					"port": "{{PORT}}",
+					"path": [
+						"api",
+						"phones",
+						"edit",
+						":phoneId"
+					],
+					"variable": [
+						{
+							"key": "phoneId",
+							"value": "3083"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
