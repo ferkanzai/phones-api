@@ -1,0 +1,5349 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-M1_id1813",
+    "id": 2738,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6753-350/Sanyo-M1.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo M1",
+    "rating": 9.1,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "320x240 (QVGA)",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.60 x 1.90 x 0.90 inches (91.5 x 48 x 23 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.80 oz (108.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Music control keys, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 200 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "28.07 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.3 inches, 96 pixels 128 x, TFT, Colors: 262 144",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "1GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 10, 2006",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-M1 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.22 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.58 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-5400_id613",
+    "id": 2742,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4294-350/Sanyo-SCP-5400.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-5400",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.60 x 1.85 x 1.05 inches (91 x 47 x 26 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.70 oz (105.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Notification light, Numeric keypad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "176 x 132 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "64 pixels 64 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 26, 2003",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-54H link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-MM-7400_id998",
+    "id": 2735,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4305-350/Sanyo-MM-7400.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo MM-7400",
+    "rating": 8.4,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        },
+        {
+          "description": "220x176",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.64 x 1.97 x 1.13 inches (92 x 50 x 29 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.06 oz (115.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers, Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "220 x 176 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "64 pixels 64 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 08, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-74H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.95 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.15 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-8100_id558",
+    "id": 2737,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4308-350/Sanyo-SCP-8100.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-8100",
+    "rating": 8.4,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.1 MP CIF (288x352) (CMOS image sensor)",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.33 x 1.86 x 1.14 inches (85 x 47 x 29 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.88 oz (110.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "144 x 120 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "72 pixels 72 x, LCD, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (32 voices), Vibration",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 18, 2003",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-81H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.34 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.33 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-MM-9000_id1340",
+    "id": 2739,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5094-350/Sanyo-MM-9000.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo MM-9000",
+    "rating": 10,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.66 x 1.91 x 1.05 inches (93 x 48 x 27 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.60 oz (130.4 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Notification light, Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "96 pixels 72 x, TFT, Colors: 262 144",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 23, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-90H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.78 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.64 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-Innuendo_id4882",
+    "id": 2743,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/22415-350/Sanyo-Innuendo.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo Innuendo",
+    "rating": 6.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "860 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 250",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.10 x 2.20 x 0.60 inches (104 x 56 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.80 oz (108.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, D-Pad, Touch sensitive keypad, Touch sensitive control keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 400 pixels, 167 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "38.35 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Proximity sensor",
+          "name": "Features:"
+        },
+        {
+          "description": "OLED",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Polyphonic ringtones (72 voices), Vibration, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing (Speaker independent), Voice commands (Speaker independent), Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-Katana-II_id2177",
+    "id": 2747,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/8553-350/Sanyo-Katana-II.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo Katana II",
+    "rating": 5.3,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "820 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.70 x 1.90 x 0.60 inches (94 x 48 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.10 oz (88.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 200 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "27.31 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.0 inches, 80 pixels 80 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.021GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 24, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-6650 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.55 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.25 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-7300_id722",
+    "id": 2751,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7220-350/Sanyo-SCP-7300.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-7300",
+    "rating": 9.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.71 x 1.97 x 1.12 inches (94 x 49.8 x 28.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.24 oz (120.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "176 x 132 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "64 pixels 64 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.0008GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jan 22, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-73H link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-7200_id611",
+    "id": 2753,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4299-350/Sanyo-SCP-7200.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-7200",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.10 x 2.20 x 1.10 inches (129 x 55 x 28 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.30 oz (150.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "128 x 120 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 20, 2003",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-72H link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-6400_id450",
+    "id": 2757,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4298-350/Sanyo-SCP-6400.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-6400",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.07 x 1.54 x 0.46 inches (129 x 39 x 12 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.65 oz (75.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "120 x 128 pixels",
+          "name": "Resolution:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (16 voices), Vibration, Phone profiles",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-3100_id1531",
+    "id": 2748,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5888-350/Sanyo-SCP-3100.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-3100",
+    "rating": 6,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA (Mirror)",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.31 x 1.83 x 1.01 inches (87 x 46.5 x 25.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.50 oz (99.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "160 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "32 pixels 96 x, STN",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.001GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (32 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 16, 2006",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-31H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.77 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.14 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-6200_id383",
+    "id": 2754,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4297-350/Sanyo-SCP-6200.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-6200",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.07 x 1.54 x 0.46 inches (129 x 39 x 12 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.65 oz (75.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "120 x 128 pixels",
+          "name": "Resolution:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (16 voices), Vibration, Phone profiles",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 08, 2002",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-62H link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-VI-2300_id1202",
+    "id": 2760,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4687-350/Sanyo-VI-2300.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo VI-2300",
+    "rating": 6.1,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.35 x 1.85 x 1.05 inches (85 x 47 x 27 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.60 oz (102.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Interchangeable covers, Soft keys, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "128 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "12 pixels 88 x",
+          "name": "Additional display:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (32 voices), Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 23, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-23H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.28 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.96 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-2400_id1654",
+    "id": 2758,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6050-350/Sanyo-SCP-2400.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-2400",
+    "rating": 9,
+    "release_date": "Jun 29, 2006",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.31 x 1.83 x 1.01 inches (87 x 46.5 x 25.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.50 oz (99.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "160 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "32 pixels 96 x, STN",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.001GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (32 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 18, 2006",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-24H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.05 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.05 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-4900_id404",
+    "id": 2764,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7431-350/Sanyo-SCP-4900.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-4900",
+    "rating": 6.7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.88 x 1.89 x 0.98 inches (124 x 48 x 25 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.60 oz (130.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "128 x 120 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "4096",
+          "name": "Colors:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (16 voices), Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jul 12, 2002",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-49H link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-7000_id1821",
+    "id": 2770,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6699-350/Sanyo-SCP-7000.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-7000",
+    "rating": 8.2,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.34 x 1.85 x 1.05 inches (85 x 47 x 27 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.70 oz (105.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Interchangeable covers, Soft keys, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Other; Right: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 128 pixels, 114 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "25.58 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "32 pixels 96 x, STN",
+          "name": "Additional display:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (32 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-5300_id431",
+    "id": 2775,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4292-350/Sanyo-SCP-5300.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-5300",
+    "rating": 8.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.70 x 1.90 x 1.10 inches (94 x 48 x 28 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.13 oz (117.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "176 x 132 pixels, 105 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "30.11 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "STN, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (16 voices), Vibration",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 28, 2002",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-53H link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-Vero_id4915",
+    "id": 2772,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/22579-350/Sanyo-Vero.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo Vero",
+    "rating": 8.5,
+    "release_date": "Sep 23, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "840 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 210",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.80 x 2.00 x 0.60 inches (97 x 51 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.40 oz (96.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 167 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "36.38 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "1.3 inches, OLED",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing (Speaker independent), Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-8200_id807",
+    "id": 2767,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4310-350/Sanyo-SCP-8200.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-8200",
+    "rating": 9.7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.34 x 1.85 x 1.02 inches (85 x 47 x 26 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.64 oz (103.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers, Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "160 x 132 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "72 pixels 72 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 19, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-82H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.13 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.01 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-S1_id2387",
+    "id": 2769,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/9003-350/Sanyo-S1.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo S1",
+    "rating": 8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "840 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.40 x 1.80 x 0.40 inches (112 x 46 x 10 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.50 oz (71.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 128 pixels, 121 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "17.80 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.001GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (32 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 13, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-25H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.46 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.36 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-4700_id33",
+    "id": 2773,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7310-350/Sanyo-SCP-4700.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-4700",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.31 x 1.73 x 1.11 inches (135 x 44 x 28 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.00 oz (142.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 22, 2001",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-47H link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-S750_id964",
+    "id": 2777,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7603-350/Sanyo-S750.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo S750",
+    "rating": 3.2,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "850 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.25 x 1.97 x 0.87 inches (108 x 50 x 22 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.41 oz (125.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "SD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 24, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSUP-S750 link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-3810_id3586",
+    "id": 2779,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/18607-350/Sanyo-SCP-3810.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-3810",
+    "rating": 8.9,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.80 x 2.00 x 0.70 inches (97 x 51 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.90 oz (111.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Camera shutter",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 167 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "36.38 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "0.9 inches, OLED",
+          "name": "Additional display:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 03, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "V65SCP-3810 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.87 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.38 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-8400_id1712",
+    "id": 2744,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6295-350/Sanyo-SCP-8400.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-8400",
+    "rating": 5.6,
+    "release_date": "Sep 12, 2006",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.40 x 1.80 x 1.00 inches (86 x 45.5 x 25.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.60 oz (102.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Interchangeable covers, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "160 pixels 128 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.06GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 21, 2006",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-84H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.10 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.33 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-Taho_id5092",
+    "id": 2756,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/23657-350/Sanyo-Taho.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo Taho",
+    "rating": 8.5,
+    "release_date": "Dec 09, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1050 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 100",
+          "name": "Price:"
+        },
+        {
+          "description": "1 GB microSD memory card and adapter",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.00 x 2.00 x 0.90 inches (102 x 51 x 23 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.70 oz (133.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Temperature; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 200 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "24.00 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.0 inches, 64 pixels 96 x",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, QSC6075",
+          "name": "Processor:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 08, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "V65E4100 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.61 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.53 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "800 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-MM-8300_id1277",
+    "id": 2759,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4393-350/Sanyo-MM-8300.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo MM-8300",
+    "rating": 6.7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.35 x 1.85 x 1.00 inches (85 x 47 x 25 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.60 oz (102.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Interchangeable covers",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "220 x 176 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "72 pixels 72 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.002GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 16, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-83H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.33 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.88 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-5500_id685",
+    "id": 2762,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7176-350/Sanyo-SCP-5500.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-5500",
+    "rating": 7.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.60 x 1.85 x 1.07 inches (91 x 47 x 27 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.85 oz (109.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 20, 2003",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-55H link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-4920_id810",
+    "id": 2763,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7498-350/Sanyo-SCP-4920.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-4920",
+    "rating": 6.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.22 x 1.85 x 0.89 inches (107 x 47 x 22.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.03 oz (114.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "112 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.001GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Apr 15, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-4920 link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-Katana-DLX_id2228",
+    "id": 2766,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/8578-350/Sanyo-Katana-DLX.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo Katana DLX",
+    "rating": 6.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "920 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "220x176",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.70 x 1.90 x 0.60 inches (94 x 48 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.50 oz (99.2 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 200 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "27.31 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.0 inches, 80 pixels 80 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.032GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 21, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-85H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.21 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.26 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-A5505SA_id806",
+    "id": 2771,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6907-350/Sanyo-A5505SA.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo A5505SA",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.89 x 2.00 x 1.02 inches (99 x 51 x 25.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.59 oz (130.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers, Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "120 x 160 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.01GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "miniSD up to 16 GB",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (40 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 22, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZA5505SA link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-RL-4930_id1342",
+    "id": 2774,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5098-350/Sanyo-RL-4930.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo RL-4930",
+    "rating": 8.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.50 x 2.00 x 1.00 inches (114 x 50 x 25 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.40 oz (124.7 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "112 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.002GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 26, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-4930 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.37 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.15 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-3200_id2023",
+    "id": 2736,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/8399-350/Sanyo-SCP-3200.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-3200",
+    "rating": 6.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "920 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.50 x 1.80 x 0.80 inches (89 x 46 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.40 oz (96.4 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Other; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 128 pixels, 114 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "25.09 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "32 pixels 96 x, STN",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.004GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 07, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-32H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.41 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.29 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-5150_id40",
+    "id": 2740,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7332-350/Sanyo-SCP-5150.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-5150",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.70 x 1.90 x 1.10 inches (94 x 48 x 28 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.10 oz (116.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "128 x 120 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "256",
+          "name": "Colors:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Phone profiles",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 06, 2001",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-5150 link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-MM-5600_id1022",
+    "id": 2741,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7684-350/Sanyo-MM-5600.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo MM-5600",
+    "rating": 8.9,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.66 x 1.91 x 1.04 inches (93 x 48.5 x 26 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.52 oz (128.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "96 pixels 72 x, TFT, Colors: 262 144",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.003GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "miniSD up to 16 GB",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones (72 voices), Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jan 31, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-56H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.72 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.18 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-Incognito-SCP-6760_id4253",
+    "id": 2746,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/18875-350/Sanyo-Incognito-SCP-6760.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo Incognito SCP-6760",
+    "rating": 6,
+    "release_date": "Nov 20, 2009",
+    "specs": {
+      "Battery": [
+        {
+          "description": "840 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.20 x 2.20 x 0.70 inches (107 x 56 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.40 oz (96.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive keypad, Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 320 pixels, 154 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "35.12 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.1 inches, OLED",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing (Speaker independent), Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 29, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "V65SCP-6760 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.28 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.75 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-7050_id2017",
+    "id": 2745,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/8215-350/Sanyo-SCP-7050.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-7050",
+    "rating": 6.9,
+    "release_date": "Mar 27, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.60 x 2.00 x 1.10 inches (91.5 x 51 x 28 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.10 oz (116.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 200 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "26.67 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.0 inches, 64 pixels 96 x, TFT",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.012GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 01, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-7050 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.87 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.31 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-MM-7500_id1417",
+    "id": 2749,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5214-350/Sanyo-MM-7500.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo MM-7500",
+    "rating": 8.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.41 x 1.94 x 1.11 inches (87 x 49 x 28 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.00 oz (113.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Interchangeable covers, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "220 x 176 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "64 pixels 96 x, TFT, Colors: 262 144",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.07GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 21, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-75H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.80 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.77 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-2700_id3548",
+    "id": 2750,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/15065-350/Sanyo-SCP-2700.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-2700",
+    "rating": 6,
+    "release_date": "Mar 31, 2009",
+    "specs": {
+      "Battery": [
+        {
+          "description": "840 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.40 oz (96.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "4.30 x 2.40 x 0.60 inches (109 x 61 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Pink, Blue",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 320 pixels, 182 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "22.51 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 26, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "V65SCP-27H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.16 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.52 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-Katana-LX_id2647",
+    "id": 2752,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/10061-350/Sanyo-Katana-LX.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo Katana LX",
+    "rating": 7,
+    "release_date": "2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "840 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.70 x 1.90 x 0.70 inches (94 x 48.2 x 17.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.40 oz (96.4 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 128 pixels, 102 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "27.76 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "64 pixels 96 x, OLED",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.007GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 10, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-3800 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.78 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.79 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-6000_id51",
+    "id": 2755,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7292-350/Sanyo-SCP-6000.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-6000",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.07 x 1.54 x 0.39 inches (129 x 39 x 10 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.29 oz (65.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "120 x 128 pixels",
+          "name": "Resolution:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Phone profiles",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 06, 2001",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-6K link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-Katana_id1633",
+    "id": 2761,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6116-350/Sanyo-Katana.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo Katana",
+    "rating": 7.1,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "820 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.88 x 2.02 x 0.58 inches (98.5 x 51 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.40 oz (96.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 182 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "29.64 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "64 pixels 96 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.005GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 08, 2006",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-66H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.88 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.50 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-PRO-200_id2645",
+    "id": 2765,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/10025-350/Sanyo-PRO-200.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo PRO-200",
+    "rating": 7.5,
+    "release_date": "Apr 01, 2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1050 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.00 x 1.70 x 0.70 inches (101.6 x 43 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.40 oz (96.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.3 inches, 96 pixels 128 x, TFT",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.032GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 22, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-PRO200 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.21 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.54 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-Katana-Eclipse-X_id3030",
+    "id": 2768,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/10902-350/Sanyo-Katana-Eclipse-X.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo Katana Eclipse X",
+    "rating": 5.5,
+    "release_date": "Aug 18, 2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "840 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "220x176",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.60 x 1.90 x 0.70 inches (91 x 48 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.40 oz (96.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 141 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "28.53 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.0 inches, 96 pixels 96 x, TFT, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.01GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (72 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing (Speaker independent), Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jul 18, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "JOYSCP-6750 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.91 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.28 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-PRO-700_id2643",
+    "id": 2778,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/10067-350/Sanyo-PRO-700.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo PRO-700",
+    "rating": 8,
+    "release_date": "Apr 01, 2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1050 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.00 x 1.80 x 0.80 inches (101.6 x 46 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.80 oz (108.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.3 inches, 96 pixels 128 x, TFT",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.032GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 22, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-PRO700 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.24 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.33 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sanyo-SCP-200_id1144",
+    "id": 2776,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4684-350/Sanyo-SCP-200.jpg",
+    "manufacturer": "Sanyo",
+    "name": "Sanyo SCP-200",
+    "rating": 6.6,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.35 x 1.85 x 1.04 inches (85 x 47 x 26 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.57 oz (101.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, Notification light",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "128 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (32 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 25, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "AEZSCP-02H link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.18 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.12 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  }
+]

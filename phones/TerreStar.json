@@ -1,0 +1,151 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/TerreStar-Genus_id4914",
+    "id": 2882,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/22572-350/TerreStar-Genus.jpg",
+    "manufacturer": "TerreStar",
+    "name": "TerreStar Genus",
+    "rating": 9.7,
+    "release_date": "Sep 21, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "320x240 (QVGA) (15 fps)",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 3.6 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "External antenna:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.68 x 2.55 x 0.76 inches (118.8 x 64.8 x 19.25 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.60 oz (130.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, D-Pad, Soft keys, Notification light",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 320 pixels, 154 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "27.19 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Yes",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.1GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 16 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.5.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3)",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

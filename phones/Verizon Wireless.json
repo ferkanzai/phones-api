@@ -1,0 +1,2616 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-CDM7076_id3463",
+    "id": 2652,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/12219-350/Verizon-Wireless-CDM7076.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless CDM7076",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.50 x 1.90 x 0.86 inches (89 x 48 x 22 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.50 oz (99.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 08, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O6Y-CDM7076 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.03 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.56 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Casio-Exilim_id3322",
+    "id": 2660,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/16308-350/Verizon-Wireless-Casio-Exilim.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Casio Exilim",
+    "rating": 7.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "920 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Optical zoom: 3.0x",
+          "name": "Specifications:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.00 x 2.00 x 0.80 inches (102 x 51 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.50 oz (128.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Temperature; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 174 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "31.74 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "0.7 inches, 96 pixels 32 x",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "TV-out",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Dec 10, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "TYKNX9250 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.25 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.31 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Ellipsis-8-HD_id10677",
+    "id": 2659,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/69374-350/Verizon-Wireless-Ellipsis-8-HD.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Ellipsis 8 HD",
+    "rating": null,
+    "release_date": "Nov 10, 2016",
+    "specs": {
+      "Battery": [
+        {
+          "description": "5100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 250",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900), 4(AWS-1), 13(700 c)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "LTE",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot, Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "8.26 x 5.04 x 0.31 inches (209.8 x 128 x 7.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "11.99 oz (340.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Gray, Blue",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1200 pixels, 283 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "69.09 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 617 8952",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 1500 MHz, ARM Cortex-A53, 64-bit, 28 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 405",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (6.0 Marshmallow)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-CASIO-GzOne-Brigade_id3971",
+    "id": 2665,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20424-350/Verizon-Wireless-CASIO-GzOne-Brigade.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless CASIO G'zOne Brigade",
+    "rating": 8,
+    "release_date": "Feb 25, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1440 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 250",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "320x240 (QVGA)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video light",
+          "name": "Features:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "E911",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.44 x 2.21 x 0.97 inches (113 x 56 x 25 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.49 oz (156.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Temperature; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Full keyboard, Numeric keypad, D-Pad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.9 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 400 pixels, 161 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "37.81 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.2 inches, 96 pixels 128 x, PMOLED",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "0.123GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 16 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Phone profiles, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 04, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "TYKNX9290 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.81 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.75 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-GzOne-Boulder_id2844",
+    "id": 2653,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/10814-350/Verizon-Wireless-GzOne-Boulder.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless G'zOne Boulder",
+    "rating": 5.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1050 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.94 x 2.02 x 0.91 inches (100 x 51.3 x 23.1 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.90 oz (138.9 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 200 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "24.12 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.2 inches, 96 pixels 96 x, STN",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Apr 25, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "TYKNX9230 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.04 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.36 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Escapade_id3651",
+    "id": 2657,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/17327-350/Verizon-Wireless-Escapade.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Escapade",
+    "rating": 5.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "920 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "M3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.90 x 1.90 x 0.90 inches (99 x 48 x 23 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.40 oz (96.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 141 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "26.33 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.1 inches, 96 pixels 96 x, CSTN, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Apr 10, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "PP4ZEPHYR link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.24 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.94 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Ellipsis-8_id9068",
+    "id": 2661,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/51016-350/Verizon-Wireless-Ellipsis-8.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Ellipsis 8",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "5000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 250",
+          "name": "Price:"
+        },
+        {
+          "description": "Wall/USB Charger, Quick Start Guide, Product Safety & Warranty Brochure, Radio Frequency Brochure, Important Consumer Information Brochure",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 4(AWS-1), 13(700 c)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "LTE",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes; Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "8.1 x 4.9 x 0.35 inches (205.7 x 124.5 x 8.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "12.64 oz (358.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 189 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "72.47 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Quad-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.1 Lollipop, 4.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Phone profiles, Flight mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.43 W/kg",
+          "name": "Body:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Salute_id4411",
+    "id": 2664,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/22060-350/Verizon-Wireless-Salute.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Salute",
+    "rating": 4.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 190",
+          "name": "Price:"
+        },
+        {
+          "description": "Battery, Wall Charger, Quick Reference Guide, Product Safety & Warranty Guide",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, E911",
+          "name": "Location:"
+        },
+        {
+          "description": "M4, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.02 x 2.01 x 0.60 inches (102 x 51 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.95 oz (112.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, D-Pad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 167 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "34.22 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Phone profiles, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing (Speaker independent), Voice commands (Speaker independent), TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 28, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "Q78-ZTECF350 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.52 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.90 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-CDM8950_id3036",
+    "id": 2651,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/11772-350/Verizon-Wireless-CDM8950.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless CDM8950",
+    "rating": 6.7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "920 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.70 x 1.90 x 0.80 inches (94 x 48 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.20 oz (91.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 141 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "27.76 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.0 inches, 96 pixels 96 x, CSTN, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (32 voices), Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jul 23, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "PP4ECHO link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.26 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.38 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Blitz_id2793",
+    "id": 2656,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/11127-350/Verizon-Wireless-Blitz.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Blitz",
+    "rating": 5.5,
+    "release_date": "Aug 25, 2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "920 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.50 x 2.60 x 0.70 inches (89 x 66 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.10 oz (145.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "176 x 220 pixels, 128 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "25.94 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Apr 15, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "PP4ELVIS link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.19 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.49 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Ellipsis-7_id8207",
+    "id": 2655,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/43888-350/Verizon-Wireless-Ellipsis-7.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Ellipsis 7",
+    "rating": 6.3,
+    "release_date": "Nov 05, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (12 fps), 1280x720 (HD) (22 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.72 x 4.94 x 0.4 inches (196 x 125 x 10 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "12.7 oz (360.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "57.75 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Quad-core, 1200 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.83 W/kg",
+          "name": "Body:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Casio-GzOne-Rock-C731_id3839",
+    "id": 2650,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/18832-350/Verizon-Wireless-Casio-GzOne-Rock-C731.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Casio G'zOne Rock C731",
+    "rating": 6.7,
+    "release_date": "Nov 19, 2009",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Pedometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.10 x 2.00 x 0.90 inches (104 x 51 x 23 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.40 oz (125.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Temperature",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 190 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "25.81 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "0.9 inches, 96 pixels 96 x, PMOLED",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jul 07, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "TYKNX9270 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.53 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.41 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Ellipsis-10_id9791",
+    "id": 2654,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/58322-350/Verizon-Wireless-Ellipsis-10.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Ellipsis 10",
+    "rating": null,
+    "release_date": "Nov 12, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "9100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 300",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 13(700 c), 4(AWS-1), 2(1900)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s)",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.28 oz (291.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1920 pixels, 224 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Oleophobic coating",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Quad-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.1 Lollipop)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.30 W/kg",
+          "name": "Body:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Casio-GzOne-Ravine_id4850",
+    "id": 2658,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/22697-350/Verizon-Wireless-Casio-GzOne-Ravine.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Casio G’zOne Ravine",
+    "rating": 7.5,
+    "release_date": "Oct 04, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1140 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 150",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Pedometer, Compass, Thermometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.30 x 2.10 x 0.80 inches (109 x 53 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.60 oz (130.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Temperature; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad, D-Pad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 182 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "25.73 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "1.4 inches, 96 pixels 96 x, LCD",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 21, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "TYKNX9300 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.53 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "800 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.81 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "800 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-Razzle_id3654",
+    "id": 2663,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/18145-350/Verizon-Wireless-Razzle.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless Razzle",
+    "rating": 5.5,
+    "release_date": "Oct 01, 2009",
+    "specs": {
+      "Battery": [
+        {
+          "description": "920 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP (Mirror)",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.50 x 2.40 x 0.50 inches (114 x 61 x 13 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.80 oz (108.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Music control keys, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Camera shutter, Lock/Unlock key",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "176 x 220 pixels, 128 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "21.86 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 03, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "PP4PIVOT link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.30 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.34 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Verizon-Wireless-CDM8975_id3111",
+    "id": 2662,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/12636-350/Verizon-Wireless-CDM8975.jpg",
+    "manufacturer": "Verizon Wireless",
+    "name": "Verizon Wireless CDM8975",
+    "rating": 5,
+    "release_date": "Feb 23, 2009",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "M4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.70 x 1.90 x 0.80 inches (94 x 48 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.20 oz (91.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 141 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "27.76 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "96 pixels 96 x, CSTN, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 22, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "PP4RAP link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.30 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.55 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/altek-Leo_id4936",
+    "id": 2909,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/22654-350/altek-Leo.jpg",
+    "manufacturer": "altek",
+    "name": "altek Leo",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1020 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "14 MP (Autofocus, AF Assist Beam, CCD image sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Optical zoom: 3.0x",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1280x720 (HD) (30 fps)",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.41 x 2.21 x 0.61 inches (111.9 x 56.1 x 15.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.94 oz (140.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 292 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "46.35 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.1)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

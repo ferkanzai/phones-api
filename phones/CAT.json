@@ -1,0 +1,2428 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-S61_id10824",
+    "id": 1987,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/73908-350/CAT-S61.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT S61",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "4500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qualcomm Quick Charge 4",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 1000",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "16 MP (PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 17(700 b), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 66(AWS-3)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 12/13 (600/150 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Hotspot, Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Thermometer, Humidity, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.42 x 3.07 x 0.51 inches (163 x 78 x 13 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "8.82 oz (250.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Frame: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust, Shock, Vibration, Temperature, Humidity; IP69K; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1080 pixels, 424 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.62 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 630 SDM630",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2200 MHz, ARM Cortex-A53, 64-bit, 14 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 508",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 256 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (8.0 Oreo)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-S40_id9556",
+    "id": 1984,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/54456-350/CAT-S40.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT S40",
+    "rating": null,
+    "release_date": "Jul 28, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (60 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900), 4(AWS-1), 5(850), 7(2600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.70 x 2.92 x 0.49 inches (144.9 x 74.1 x 12.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.53 oz (185.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock; IP68; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "960 x 540 pixels, 234 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "56.71 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 4), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 210 MSM8909",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1100 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 304",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.1 Lollipop)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-S50_id9674",
+    "id": 1993,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/56074-350/CAT-S50.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT S50",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "2630 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 3(1800), 7(2600), 20(800 DD)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSPA, HSUPA, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.69 x 3.03 x 0.50 inches (144.5 x 77 x 12.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.53 oz (185.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Vibration, Temperature; IP67; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 312 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "54.75 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 400 MSM8926",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 305",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB, available to use: 6 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-S42_id11500",
+    "id": 1991,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/80154-350/CAT-S42.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT S42",
+    "rating": null,
+    "release_date": "Sep 09, 2020",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Fast charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 329",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "13 MP (PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 12(700 a), 13(700 c), 14(700 PS), 25(1900+), 26(850+), 66(AWS-3), 71(600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 6 (300/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        },
+        {
+          "description": "Yes",
+          "name": "VoLTE:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, OTG",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.34 x 3.03 x 0.50 inches (161 x 77 x 12.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "7.76 oz (220.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Vibration, Temperature, Humidity; IP68; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1440 x 720 pixels, 18:9 ratio, 293 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "62.99 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek Helio A20",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1800 MHz, Arm Cortex-A53, 64-bit, 12 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR GE8300",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (10)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jul 24, 2020",
+          "name": "Date approved:"
+        },
+        {
+          "description": "ZL5S42 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.07 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.06 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.58 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.10 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-B25_id10252",
+    "id": 1983,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/63294-350/CAT-B25.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT B25",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1300 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.92 x 2.24 x 0.87 inches (125 x 57 x 22 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.68 oz (161.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock; IP67",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Camera shutter",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 200 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "17.42 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6235",
+          "name": "System chip:"
+        },
+        {
+          "description": "208 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "0.512GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSD up to 8 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-B15_id7866",
+    "id": 1988,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/48935-350/CAT-B15.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT B15",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "2000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.92 x 2.74 x 0.59 inches (125 x 69.5 x 14.95 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.00 oz (170.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust, Shock, Vibration; IP67; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "52.36 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6577",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX 531",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-B15Q_id8911",
+    "id": 1994,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/48943-350/CAT-B15Q.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT B15Q",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "2000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.92 x 2.74 x 0.59 inches (125 x 69.5 x 14.95 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.00 oz (170.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust, Shock, Vibration; IP67; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "52.36 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 2), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6582M",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1300 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-400 MP2",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-S41_id10655",
+    "id": 1992,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/69071-350/CAT-S41.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT S41",
+    "rating": null,
+    "release_date": "Aug 31, 2017",
+    "specs": {
+      "Battery": [
+        {
+          "description": "5000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "13 MP (PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900), 4(AWS-1), 5(850), 7(2600), 12(700 a), 13(700 c), 17(700 b)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 6 (300/50 Mbit/s), HSPA, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, BeiDou",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.98 x 2.95 x 0.51 inches (152 x 75 x 12.85 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "7.69 oz (218.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock; IP68; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Lock/Unlock key, Other; Right: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1080 pixels, 441 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "60.55 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek Helio P20 MT6757",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2300 MHz, ARM Cortex-A53, 64-bit, 16 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-T880 MP2",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 2000 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (7.0 Nougat)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-S48c_id11038",
+    "id": 1986,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/74335-350/CAT-S48c.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT S48c",
+    "rating": null,
+    "release_date": "Nov 08, 2018",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qualcomm Quick Charge 4",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 480",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "13 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 12(700 a), 13(700 c), 14(700 PS), 25(1900+), 26(850+), 66(AWS-3)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, OTG, Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.9 x 3 x 0.53 inches (149.9 x 76.2 x 13.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "9.3 oz (264.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Vibration, Temperature, Humidity; IP68; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Left: Lock/Unlock key; Right: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1080 pixels, 441 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "60.35 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 630 SDM630",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2200 MHz, ARM Cortex-A53, 64-bit, 14 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 508",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (8.1 Oreo)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 25, 2018",
+          "name": "Date approved:"
+        },
+        {
+          "description": "ZL5S48C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.98 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.06 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.59 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.19 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-S32_id11327",
+    "id": 1990,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/77994-350/CAT-S32.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT S32",
+    "rating": null,
+    "release_date": "Jan 07, 2020",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4200 mAh",
+          "name": "Capacity:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "12 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE-A Cat 6 (300/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "VoLTE:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS, A-GPS, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, UMA (Wi-Fi Calling)",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Water, Dust, Shock; IP68; MIL-STD-810 certified",
+          "name": "Resistance:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1440 x 720 pixels, 18:9 ratio, 293 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Scratch-resistant glass (Dragontrail), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek Helio A20 6761D",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1800 MHz, ARM Cortex-A53, 64-bit, 12 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "IMG PowerVR GE",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (10)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-S60_id9963",
+    "id": 1985,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/60489-350/CAT-S60.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT S60",
+    "rating": 5.5,
+    "release_date": "Feb 18, 2016",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qualcomm Quick Charge 2.0",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 599",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "13 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 3(1800), 7(2600), 8(900), 20(800 DD)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, BeiDou",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Altimeter, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.82 x 2.89 x 0.50 inches (147.9 x 73.4 x 12.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "7.87 oz (223.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Vibration; IP68; MIL-STD-810 certified",
+          "name": "Resistance:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 312 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "56.12 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "540 cd/m2 (nit)",
+          "name": "Peak brightness:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 4), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 617 8952",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1500 MHz, ARM Cortex-A53",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 405",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (6.0 Marshmallow)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/CAT-S31_id10654",
+    "id": 1989,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/70414-350/CAT-S31.jpg",
+    "manufacturer": "CAT",
+    "name": "CAT S31",
+    "rating": null,
+    "release_date": "Aug 31, 2017",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 330",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900), 4(AWS-1), 5(850), 7(2600), 12(700 a), 17(700 b)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSPA, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot, Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, BeiDou",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.75 x 2.93 x 0.50 inches (146 x 74.42 x 12.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "7.05 oz (200.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Vibration, Temperature; IP68; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Lock/Unlock key; Right: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 312 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "56.03 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 210 8909",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1100 MHz, ARM Cortex-A7, 32-bit, 28 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 304",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (7.0 Nougat)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,3018 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire-HD-7_id8927",
+    "id": 2273,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/49180-350/Amazon-Fire-HD-7.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire HD 7",
+    "rating": 7,
+    "release_date": "Sep 17, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 159",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, 5W power adapter, and Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging, Video out",
+          "name": "Features:"
+        },
+        {
+          "description": "Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.5 x 5.0 x 0.42 inches (190.5 x 127 x 10.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "11.89 oz (337.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Pink, Yellow, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.73 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass)",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Quad-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB, available to use: 12.2 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4), Amazon Fire OS UI Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Dolby Digital Plus",
+          "name": "Features:"
+        },
+        {
+          "description": "SlimPort",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire-Phone_id8731",
+    "id": 2276,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47620-350/Amazon-Fire-Phone.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire Phone",
+    "rating": 6.5,
+    "release_date": "Jun 18, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2400 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 299",
+          "name": "Price:"
+        },
+        {
+          "description": "Premium headphones with remote and mic, Micro USB to USB charging cable, USB power adapter (5W), Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "13 MP (OIS, Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "2.1 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 17(700 b), 20(800 DD)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE, HSPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.5 x 2.6 x 0.35 inches (140 x 66 x 9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.64 oz (160.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Camera shutter",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Purple, Yellow, Blue, Red",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 315 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "64.95 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 800 8974",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2200 MHz, Krait 400",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 330",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2), Amazon Fire OS UI Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Music recognition, Preset equalizer, Dolby Digital, Dolby Digital Plus",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire-HD-10_id9653",
+    "id": 2283,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/55349-350/Amazon-Fire-HD-10.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire HD 10",
+    "rating": null,
+    "release_date": "Sep 17, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 260",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, 5W power adapter, Quick Start Guide",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, dual-band, ac",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.31 x 6.26 x 0.30 inches (262 x 159 x 7.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "15.24 oz (432.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 149 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "71.04 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB, available to use: 26 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.0 Lollipop), Amazon Fire OS UI",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Dolby Atmos",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Kindle-Fire-2_id7489",
+    "id": 2284,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/37975-350/Amazon-Kindle-Fire-2.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Kindle Fire 2",
+    "rating": 6.5,
+    "release_date": "Sep 06, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 159",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, and Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.44 x 4.72 x 0.45 inches (189 x 120 x 11.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "14.1 oz (400.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "60.86 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP4430",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1200 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX540",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "8192 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "5.5GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire-HD-6_id8928",
+    "id": 2289,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/49183-350/Amazon-Fire-HD-6.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire HD 6",
+    "rating": 7,
+    "release_date": "Sep 17, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 119",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, 5W power adapter, and Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging, Video out",
+          "name": "Features:"
+        },
+        {
+          "description": "Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.7 x 4.1 x 0.4 inches (170.2 x 104.1 x 10.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "10.23 oz (290.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Pink, Yellow, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 252 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.90 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass)",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Quad-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB, available to use: 12.2 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4), Amazon Fire OS UI Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Dolby Digital Plus",
+          "name": "Features:"
+        },
+        {
+          "description": "SlimPort",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire-HD-10-2019_id11328",
+    "id": 2285,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/77996-350/Amazon-Fire-HD-10-2019.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire HD 10 (2019)",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "6300 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 150",
+          "name": "Price:"
+        },
+        {
+          "description": "USB-C (2.0) cable, 9W power adapter, Quick Start Guide",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "720x480 (DVD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.31 x 6.26 x 0.39 inches (262 x 159 x 9.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "17.78 oz (504.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Plum, Plum, Twilight blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1200 pixels, 16:10 ratio, 224 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "69.64 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Octa-core, 2000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB, available to use: 25.3 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 512 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android, Amazon Fire UI",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Atmos",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire-HD-8_id9652",
+    "id": 2274,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/55344-350/Amazon-Fire-HD-8.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire HD 8",
+    "rating": null,
+    "release_date": "Sep 17, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 170",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, 5W power adapter, Quick Start Guide",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, dual-band, ac",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "8.43 x 5.04 x 0.30 inches (214 x 128 x 7.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "10.97 oz (311.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black, Pink, Orange, Blue",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 189 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "67.70 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB, available to use: 11.6 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.0 Lollipop), Amazon Fire OS UI",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Dolby Atmos",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire-HD-8-Plus-2020_id11429",
+    "id": 2277,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/78980-350/Amazon-Fire-HD-8-Plus-2020.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire HD 8 Plus (2020)",
+    "rating": null,
+    "release_date": "May 13, 2020",
+    "specs": {
+      "Buyers information": [
+        {
+          "description": "$ 110",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.95 x 5.39 x 0.38 inches (202 x 137 x 9.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "12.52 oz (355.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "White, Black, Twilight blue, Plum, Slate",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 16:10 ratio, 189 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "67.13 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT8168",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2000 MHz, Arm Cortex-A53, 64-bit, 12 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali G52 MC1",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 1000 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (9.0 Pie), FireOS UI",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Atmos",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Kindle-Fire-HD-2013_id8157",
+    "id": 2281,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42943-350/Amazon-Kindle-Fire-HD-2013.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Kindle Fire HD (2013)",
+    "rating": 7,
+    "release_date": "Sep 25, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 139",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, 5W power adapter, and Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.52 x 5.04 x 0.42 inches (191 x 128 x 10.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "12.17 oz (345.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.11 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Dual-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB, available to use: 5.1 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2), Amazon Fire OS UI Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Dolby Mobile",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Kindle-Fire_id6185",
+    "id": 2288,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/31744-350/Amazon-Kindle-Fire.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Kindle Fire",
+    "rating": 7.5,
+    "release_date": "Sep 28, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.48 x 4.72 x 0.45 inches (190 x 120 x 11.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "14.57 oz (413.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "60.54 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP4",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Kindle-Fire-HD-8.9-4G-LTE_id7491",
+    "id": 2279,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/37969-350/Amazon-Kindle-Fire-HD-8.9-4G-LTE.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Kindle Fire HD 8.9 4G LTE",
+    "rating": null,
+    "release_date": "Sep 06, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 499",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, and Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE, HSPA, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, dual-band; Multiple antennas, MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "A-GPS, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.4 x 6.4 x 0.35 inches (240 x 164 x 8.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "20 oz (575.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.9 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1920 pixels, 254 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.18 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP4470",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1500 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX544",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Digital Plus",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Kindle-Fire-HDX-8.9_id8156",
+    "id": 2282,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42940-350/Amazon-Kindle-Fire-HDX-8.9.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Kindle Fire HDX 8.9",
+    "rating": 8,
+    "release_date": "Sep 25, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.2",
+          "name": "Specifications:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE, HSPA, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Multiple antennas, MIMO, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.09 x 6.22 x 0.31 inches (231 x 158 x 7.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "13.55 oz (384.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.9 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1600 x 2560 pixels, 339 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "62.96 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "400 cd/m2 (nit)",
+          "name": "Peak brightness:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 800 8074",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2200 MHz, Krait 400",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 330",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB, available to use: 8.8 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2), Amazon Fire OS UI Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Kindle-Fire-HDX-7_id8158",
+    "id": 2286,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42944-350/Amazon-Kindle-Fire-HDX-7.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Kindle Fire HDX 7",
+    "rating": 7.5,
+    "release_date": "Sep 25, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 329",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Yes",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE, HSPA, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.32 x 5.04 x 0.35 inches (186 x 128 x 9.0 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "10.97 oz (311.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1920 pixels, 323 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.69 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "400 cd/m2 (nit)",
+          "name": "Peak brightness:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 800 8074",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2260 MHz, Krait 400",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 330",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB, available to use: 8.8 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2), Amazon Fire OS UI Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire-HDX-8.9_id8925",
+    "id": 2275,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/49054-350/Amazon-Fire-HDX-8.9.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire HDX 8.9",
+    "rating": 8,
+    "release_date": "Sep 17, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 479",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, 9W Amazon PowerFast charger, and Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.2",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE, HSPA",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging, Video out",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.1 x 6.2 x 0.3 inches (231.1 x 157.5 x 7.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "13.72 oz (389.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.9 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1600 x 2560 pixels, 339 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "63.10 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 805 APQ8084",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2500 MHz, Krait 450",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 420",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB, available to use: 54.3 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4), Amazon Fire OS UI Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Dolby Digital Plus",
+          "name": "Features:"
+        },
+        {
+          "description": "SlimPort",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Kindle-Fire-HD-8.9_id7488",
+    "id": 2272,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/37963-350/Amazon-Kindle-Fire-HD-8.9.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Kindle Fire HD 8.9",
+    "rating": 8,
+    "release_date": "Sep 06, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 299",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n, dual-band; Multiple antennas, MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.4 x 6.4 x 0.35 inches (240 x 164 x 8.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "20 oz (567.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.9 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1920 pixels, 254 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.18 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP4470",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1500 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX544",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Digital Plus",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire_id9651",
+    "id": 2278,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/55340-350/Amazon-Fire.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire",
+    "rating": 8.5,
+    "release_date": "Sep 17, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 50",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, 5W power adapter, Quick Start Guide",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.52 x 4.53 x 0.42 inches (191 x 115 x 10.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "11.04 oz (313.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1024 x 600 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "62.74 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Quad-core, 1300 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB, available to use: 5 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.0 Lollipop), Amazon Fire OS UI",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Kindle-Fire-HD_id7490",
+    "id": 2280,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/37960-350/Amazon-Kindle-Fire-HD.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Kindle Fire HD",
+    "rating": 8,
+    "release_date": "Sep 06, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 199",
+          "name": "Price:"
+        },
+        {
+          "description": "USB 2.0 cable, and Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n, dual-band; Multiple antennas, MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.6 x 5.4 x 0.4 inches (193 x 137 x 10.3 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "13.9 oz (395.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "53.66 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP4460",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1200 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX540",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB, available to use: 12.6 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Amazon-Fire-HD-8-2020_id11428",
+    "id": 2287,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/78976-350/Amazon-Fire-HD-8-2020.jpg",
+    "manufacturer": "Amazon",
+    "name": "Amazon Fire HD 8 (2020)",
+    "rating": null,
+    "release_date": "May 13, 2020",
+    "specs": {
+      "Buyers information": [
+        {
+          "description": "$ 90",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.95 x 5.39 x 0.38 inches (202 x 137 x 9.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "12.52 oz (355.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "White, Black, Twilight blue, Plum",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 16:10 ratio, 189 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "67.13 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT8168",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2000 MHz, Arm Cortex-A53, 64-bit, 12 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali G52 MC1",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 1000 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (9.0 Pie), FireOS UI",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Atmos",
+          "name": "Features:"
+        }
+      ]
+    }
+  }
+]

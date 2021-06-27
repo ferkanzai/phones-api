@@ -1,0 +1,2728 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-10_id5208",
+    "id": 3595,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/27032-350/ViewSonic-ViewPad-10.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad 10",
+    "rating": 4,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "3200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Proprietary, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.83 x 6.69 x 0.65 inches (275 x 170 x 16.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "30.86 oz (875.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 118 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "61.41 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom N455",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1660 MHz, 64-bit, 45 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2, 1.6)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-7e_id6629",
+    "id": 3597,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/33565-350/ViewSonic-ViewPad-7e.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad 7e",
+    "rating": 3.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "3300 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "ViewPad 7e, charger with plugs, USB data sync cable, Quick Start Guide, compliance information",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.56 x 5.16 x 0.56 inches (192 x 131 x 14.1 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "15.87 oz (450.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 600 pixels, 143 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "60.29 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Resistive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1000 MHz, ARM A8",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, AM",
+          "name": "Radio:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-7x_id5596",
+    "id": 3605,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/29030-350/ViewSonic-ViewPad-7x.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad 7x",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 42.2 Mbit/s, HSPA, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "13.40 oz (380.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LED",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 2",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core",
+          "name": "Processor:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (3.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Preset equalizer, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPhone-5e_id6981",
+    "id": 3601,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35192-350/ViewSonic-ViewPhone-5e.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPhone 5e",
+    "rating": null,
+    "release_date": "Feb 24, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "HSPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 187 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-10Pro_id5597",
+    "id": 3607,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30607-350/ViewSonic-ViewPad-10Pro.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad 10Pro",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "5000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 8(900), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG",
+          "name": "Features:"
+        },
+        {
+          "description": "Mini HDMI (Type C)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.35 x 6.69 x 0.59 inches (263 x 170 x 14.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "28.22 oz (800.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 118 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "64.26 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z670",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1500 MHz, 32-bit, 45 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Preset equalizer",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewBook-730_id5626",
+    "id": 3596,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/29200-350/ViewSonic-ViewBook-730.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewBook 730",
+    "rating": 6,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "5000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "Power adapter, USB cable, Stylus, Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "Mini HDMI (Type C)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Black",
+          "name": "Colors:"
+        },
+        {
+          "description": "8.19 x 5.23 x 0.56 inches (208 x 132.8 x 14.1 mm)",
+          "name": "Dimensions:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 800 pixels, 133 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "50.47 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Yes",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1000 MHz, ARM Cortex-A8",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback, Preset equalizer",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-V350_id5207",
+    "id": 3600,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/26872-350/ViewSonic-V350.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic V350",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1400 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "800 x 480 pixels 30 fps",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.49 x 2.40 x 0.49 inches (114 x 60.9 x 12.45 mm )",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.41 oz (125.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 165 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "52.47 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S1 MSM7227",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 600 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-E70_id6841",
+    "id": 3610,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/34481-350/ViewSonic-ViewPad-E70.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad E70",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "13.30 oz (377.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 800 pixels, 133 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1000 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-G70_id6984",
+    "id": 3602,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35207-350/ViewSonic-ViewPad-G70.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad G70",
+    "rating": null,
+    "release_date": "Feb 24, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3300 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "1000 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "",
+          "name": "Video playback:"
+        },
+        {
+          "description": "Zoom, Stretch to fullscreen",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-10pi_id6834",
+    "id": 3606,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/34468-350/ViewSonic-ViewPad-10pi.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad 10pi",
+    "rating": null,
+    "release_date": "Jan 12, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2890 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "Charger with plugs, Quick Start Guide, compliance information",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.47 x 7.09 x 0.53 inches (266 x 180 x 13.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "29.10 oz (825.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z670",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1500 MHz, , 32-bit, 45 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "SD, SDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPhone-3_id6832",
+    "id": 3599,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/34464-350/ViewSonic-ViewPhone-3.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPhone 3",
+    "rating": 2,
+    "release_date": "Jan 10, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "HSPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 165 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 800 MHz, ARM11",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-7_id5241",
+    "id": 3598,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/27058-350/ViewSonic-ViewPad-7.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad 7",
+    "rating": 6,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "3240 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.05 x 4.33 x 0.45 inches (179 x 110 x 11.5 mm )",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "13.23 oz (375.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 800 pixels, 133 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "70.82 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S1 MSM7227",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 600 MHz, ARM11",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 200",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPhone-4s_id6979",
+    "id": 3604,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35189-350/ViewSonic-ViewPhone-4s.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPhone 4s",
+    "rating": null,
+    "release_date": "Feb 24, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "HSPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "960 x 640 pixels, 330 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1000 MHz, ARM Cortex-A9, 32-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-gTablet_id5240",
+    "id": 3609,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/27005-350/ViewSonic-gTablet.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic gTablet",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "3650 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.50 x 6.80 x 0.54 inches (267 x 173 x 14 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "24.80 oz (703.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 118 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "62.32 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 2",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-4_id5131",
+    "id": 3612,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/25569-350/ViewSonic-ViewPad-4.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad 4",
+    "rating": null,
+    "release_date": "First half 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 228 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S2 MSM8255",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "2048 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPhone-4e_id6980",
+    "id": 3603,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35191-350/ViewSonic-ViewPhone-4e.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPhone 4e",
+    "rating": null,
+    "release_date": "Feb 24, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "HSPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 165 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 650 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-10e_id6833",
+    "id": 3608,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/34465-350/ViewSonic-ViewPad-10e.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad 10e",
+    "rating": null,
+    "release_date": "Jan 12, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "Charger with plugs, Micro USB, Quick Start Guide, compliance information",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Mini HDMI (Type C)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.51 x 7.43 x 0.36 inches (241.6 x 188.6 x 9.1 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "21.87 oz (620.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "9.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "768 x 1024 pixels, 132 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "63.92 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1000 MHz, ARM Cortex-A8",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/ViewSonic-ViewPad-E100_id6987",
+    "id": 3611,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35210-350/ViewSonic-ViewPad-E100.jpg",
+    "manufacturer": "ViewSonic",
+    "name": "ViewSonic ViewPad E100",
+    "rating": null,
+    "release_date": "Feb 24, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "Charger with plugs, Quick Start Guide, compliance information",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG",
+          "name": "Features:"
+        },
+        {
+          "description": "Mini HDMI (Type C)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.53 x 7.44 x 0.36 inches (242.1 x 189.1 x 9.1 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "21.52 oz (610.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "9.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "768 x 1024 pixels, 132 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "63.70 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "",
+          "name": "Video playback:"
+        },
+        {
+          "description": "Zoom, Stretch to fullscreen",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

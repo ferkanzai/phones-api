@@ -1,0 +1,1804 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-Aero_id4350",
+    "id": 3592,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20565-350/Dell-Aero.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell Aero",
+    "rating": 4.4,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 100",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 3.6 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.80 x 2.28 x 0.46 inches (122 x 58 x 12 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.67 oz (104.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "640 x 360 pixels, 210 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "47.83 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "624 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (1.5)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 06, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "E2KV01B001 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.90 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.63 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-Venue-8-7840_id8914",
+    "id": 3590,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/48968-350/Dell-Venue-8-7840.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell Venue 8 7840",
+    "rating": null,
+    "release_date": "January 1900",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 400",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "8.50 x 4.90 x 0.24 inches (215.8 x 124.4 x 6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "10.76 oz (305.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2560 x 1600 pixels, 359 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "76.14 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z3580",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2330 MHz, 64-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR G6430",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 512 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-Venue-8-Pro_id8245",
+    "id": 3588,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/44384-350/Dell-Venue-8-Pro.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell Venue 8 Pro",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "4830 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 299",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "8.5 x 5.1 x 0.35 inches (216 x 130 x 9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "13.90 oz (394.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black, Red",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 189 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "66.35 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z3740D",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1800 MHz, 64-bit, 22 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB DDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1 Pro)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-Venue-Pro_id4595",
+    "id": 3591,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/22888-350/Dell-Venue-Pro.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell Venue Pro",
+    "rating": 8.5,
+    "release_date": "Oct 11, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1400 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 450",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD) (24 fps)",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 4(1700/2100), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.76 x 2.54 x 0.59 inches (121 x 64.4 x 14.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.74 oz (191.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 228 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "61.34 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S1 QSD8250",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1000 MHz, Scorpion",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 200",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "1024 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Phone, 7.5 Mango",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 02, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "E2KV02S002 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.12 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1700 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.39 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "850 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-Venue_id4593",
+    "id": 3587,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/25566-350/Dell-Venue.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell Venue",
+    "rating": 7.5,
+    "release_date": "January 1900",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1400 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD) (20 fps)",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.76 x 2.52 x 0.51 inches (121 x 64 x 12.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.78 oz (164.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 228 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "61.83 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm MSM8250",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "1GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 28, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "E2KV03B001 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.39 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.19 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "850 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-Streak-7_id5127",
+    "id": 3594,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/25558-350/Dell-Streak-7.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell Streak 7",
+    "rating": 6.5,
+    "release_date": "Jan 06, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSPA, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Proprietary, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.87 x 4.72 x 0.49 inches (199.9 x 119.8 x 12.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 133 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.20 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 2",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "SD, SDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (3.2, 2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-Streak_id5018",
+    "id": 3586,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/23572-350/Dell-Streak.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell Streak",
+    "rating": 8,
+    "release_date": "May 26, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1530 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD) (18 fps), 640x480 (VGA) (20 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Proprietary, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.02 x 3.11 x 0.40 inches (153 x 79 x 10 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "7.76 oz (220.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Camera shutter, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 187 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.91 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S1 QSD8250",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1000 MHz, Scorpion",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 200",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3, 2.2, 1.6)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 05, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "VRSM01M001 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.72 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.95 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "850 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-XPS-10_id7553",
+    "id": 3585,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/38607-350/Dell-XPS-10.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell XPS 10",
+    "rating": null,
+    "release_date": "Oct 23, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 500",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD) (30 fps)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.75 x 6.98 x 0.36 inches (247.7 x 177.3 x 9.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "22.40 oz (635.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "768 x 1366 pixels, 155 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "64.03 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S4",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (RT)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-Venue-8-2014_id8701",
+    "id": 3589,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47380-350/Dell-Venue-8-2014.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell Venue 8 (2014)",
+    "rating": null,
+    "release_date": "Jun 02, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 200",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1200 pixels, 283 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z3480",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 2100 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Dell-Latitude-10_id7554",
+    "id": 3593,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/38608-350/Dell-Latitude-10.jpg",
+    "manufacturer": "Dell",
+    "name": "Dell Latitude 10",
+    "rating": null,
+    "release_date": "Oct 25, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 649",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "Autofocus",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Mini HDMI (Type C)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.79 x 6.95 x 0.41 inches (274 x 176.6 x 10.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "23.21 oz (658.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "768 x 1366 pixels, 155 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.11 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass), Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z2760",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1800 MHz, 32-bit, 32 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX545",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "SD, SDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

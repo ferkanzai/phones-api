@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node .",
+    "db:create": "node scripts/creations.js",
+    "db:drop": "node scripts/drops.js",
+    "db:insert": "node scripts/insertions.js",
+    "db:up": "npm run db:create && npm run db:insert",
+    "db:restart": "npm run db:drop && npm run db:up"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "slonik": "^23.8.0"
+  }
+}

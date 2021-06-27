@@ -1,0 +1,3208 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-GD87-USA_id424",
+    "id": 2429,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6969-350/Panasonic-GD87-USA.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic GD87 (USA)",
+    "rating": 7.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "720 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.1 MP CIF (288x352)",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Computer sync, Infrared, SyncML",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.84 x 1.93 x 0.91 inches (98 x 49 x 23 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.63 oz (103.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "176 x 132 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "LCD",
+          "name": "Additional display:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (16 voices), Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 12, 2002",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NWJ10A008A link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-SA6_id1138",
+    "id": 2427,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7682-350/Panasonic-SA6.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic SA6",
+    "rating": 8,
+    "release_date": "Feb 14, 2005",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1660 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Infrared, SyncML",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.78 x 1.81 x 0.98 inches (96 x 46 x 25 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.48 oz (127.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "240 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.032GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones (40 voices), Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-P31_id8502",
+    "id": 2433,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/45875-350/Panasonic-P31.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic P31",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "2000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.55 x 2.83 x 0.39 inches (141 x 71.8 x 9.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "854 x 480 pixels, 196 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "67.99 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor, Oleophobic coating",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6582M",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1300 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-400",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2), Panasonic Play Life UI",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, RDS",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-X88_id736",
+    "id": 2439,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7198-350/Panasonic-X88.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic X88",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "680 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.1 MP CIF (288x352)",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.42 x 1.85 x 0.94 inches (87 x 47 x 24 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.24 oz (92.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "176 x 132 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "28 pixels 96 x",
+          "name": "Additional display:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (40 voices), Vibration",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-SA7_id1137",
+    "id": 2437,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7680-350/Panasonic-SA7.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic SA7",
+    "rating": null,
+    "release_date": "Feb 14, 2005",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1660 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Infrared, SyncML",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.02 x 2.09 x 1.02 inches (102 x 53 x 26 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.94 oz (140.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "64 pixels 96 x, LCD, Colors: 4096",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.03GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones (40 voices), Vibration",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-Toughpad-FZ-X1_id8905",
+    "id": 2445,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/48915-350/Panasonic-Toughpad-FZ-X1.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic Toughpad FZ-X1",
+    "rating": 8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "6200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "36 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.5 x 3.4 x 1.2 inches (165.1 x 86.4 x 30.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "14.4 oz (408.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Splash, Dust, Shock; IP68",
+          "name": "Resistance:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 294 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "48.34 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qulacomm Snapdragon 600 APQ8064T",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1700 MHz, Krait 300",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 320",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-P341_id1085",
+    "id": 2447,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/4284-350/Panasonic-P341.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic P341",
+    "rating": 9.2,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "680 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.1 MP CIF (288x352)",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Infrared, SyncML",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.43 x 1.85 x 0.94 inches (87 x 47 x 24 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.25 oz (92.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "176 x 132 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "28 pixels 96 x, LCD",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.005GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (16 voices), Vibration",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-DuraMax_id390",
+    "id": 2451,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7275-350/Panasonic-DuraMax.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic DuraMax",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1400 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        },
+        {
+          "description": "800, 1900 MHz",
+          "name": "TDMA:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.80 x 2.00 x 1.10 inches (122 x 51 x 28 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.90 oz (139.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 06, 2000",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NWJ10A002A link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-Z800_id1066",
+    "id": 2455,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7647-350/Panasonic-Z800.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic Z800",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.80 x 1.93 x 1.02 inches (96.5 x 49 x 26 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.06 oz (115.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "220 x 176 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "64 pixels 96 x, STN, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (40 voices), Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-A100_id782",
+    "id": 2428,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7461-350/Panasonic-A100.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic A100",
+    "rating": 7.4,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "780 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.03 x 1.73 x 0.70 inches (77 x 44 x 17.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.32 oz (66.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "64 x 112 pixels",
+          "name": "Resolution:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-G60U_id593",
+    "id": 2430,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7099-350/Panasonic-G60U.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic G60U",
+    "rating": 8.4,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "740 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "G60 supports GSM 900/1800 MHz",
+          "name": ""
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.09 x 1.85 x 0.74 inches (104 x 47 x 19 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.06 oz (87.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "128 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 23, 2003",
+          "name": "Date approved:"
+        },
+        {
+          "description": "QQXEB-G60U link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-MX7_id1136",
+    "id": 2432,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7678-350/Panasonic-MX7.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic MX7",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1660 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.02 x 2.01 x 1.02 inches (102 x 51 x 26 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.08 oz (144.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "240 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "64 pixels 96 x, STN, Colors: 4096",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.03GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones (40 voices), Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-X300_id781",
+    "id": 2438,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7459-350/Panasonic-X300.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic X300",
+    "rating": 9.4,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "780 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA (Mirror)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.62 x 1.96 x 0.94 inches (92 x 49 x 21 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.17 oz (87.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "128 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.003GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (40 voices), Vibration",
+          "name": "Notifications:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 13, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "HFS-X300 link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-GD55_id535",
+    "id": 2440,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7052-350/Panasonic-GD55.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic GD55",
+    "rating": 2.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "720 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.03 x 1.69 x 0.67 inches (77 x 43 x 17 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.29 oz (65.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "64 x 112 pixels",
+          "name": "Resolution:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (4 voices), Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 19, 2003",
+          "name": "Date approved:"
+        },
+        {
+          "description": "HFS-GD55 link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-Toughbook-CF-P1_id852",
+    "id": 2443,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7522-350/Panasonic-Toughbook-CF-P1.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic Toughbook CF-P1",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "2100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "802.11 b",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.80 x 3.90 x 1.80 inches (173 x 99 x 41 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "17.30 oz (490.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 400 MHz, Intel PXA263",
+          "name": "Processor:"
+        },
+        {
+          "description": "GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "64 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "MMC, SD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (2003)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 24, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "ACJ9TGCF-P12 link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-X11_id735",
+    "id": 2446,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7213-350/Panasonic-X11.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic X11",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "660 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.1 MP CIF (288x352)",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Infrared, SyncML",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.42 x 1.88 x 1.06 inches (87 x 48 x 27 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.35 oz (95.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "176 x 132 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "28 pixels 96 x",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.006GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (16 voices), Vibration",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-G50_id741",
+    "id": 2449,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7129-350/Panasonic-G50.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic G50",
+    "rating": 9.2,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "780 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.15 x 1.69 x 0.71 inches (80 x 43 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.65 oz (74.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "96 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jul 24, 2003",
+          "name": "Date approved:"
+        },
+        {
+          "description": "HFS-G50 link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-Toughpad-JT-B1_id7648",
+    "id": 2454,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/39594-350/Panasonic-Toughpad-JT-B1.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic Toughpad JT-B1",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "13 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "33.60 oz (952.5 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP4460",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1500 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX540",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "",
+          "name": "Video playback:"
+        },
+        {
+          "description": "Stretch to fullscreen",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-ELUGA_id6944",
+    "id": 2426,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35025-350/Panasonic-ELUGA.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic ELUGA",
+    "rating": 6,
+    "release_date": "Feb 20, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.84 x 2.44 x 0.31 inches (123 x 62.0 x 7.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.63 oz (103.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water (up to 1529 meters), Dust; IP57",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "960 x 540 pixels, 256 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "66.90 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP4430",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX540",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3.5) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 15, 2012",
+          "name": "Date approved:"
+        },
+        {
+          "description": "UCE211048A link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.62 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.67 W/kg",
+          "name": "Body:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-X700_id755",
+    "id": 2434,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7245-350/Panasonic-X700.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic X700",
+    "rating": 6.9,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "820 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA (CMOS image sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync, Infrared, SyncML",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.35 oz (95.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "3.42 x 1.85 x 0.94 inches (87 x 47 x 24 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "208 x 176 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "64 pixels 96 x, STN, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Symbian (7.0)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (40 voices), Vibration, Phone profiles",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing (Speaker independent), Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 05, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NWJ22A001A link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.26 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.45 W/kg",
+          "name": "Body:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-G70_id740",
+    "id": 2441,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7190-350/Panasonic-G70.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic G70",
+    "rating": 6,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "680 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.46 x 2.36 x 1.06 inches (88 x 60 x 27 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.10 oz (88.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "96 x 128 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "4096",
+          "name": "Colors:"
+        },
+        {
+          "description": "58 pixels 80 x",
+          "name": "Additional display:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (16 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 18, 2003",
+          "name": "Date approved:"
+        },
+        {
+          "description": "HFS-G70 link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-ELUGA-power_id6977",
+    "id": 2444,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35184-350/Panasonic-ELUGA-power.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic ELUGA power",
+    "rating": null,
+    "release_date": "Feb 27, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 14.4 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.35 x 2.76 x 0.38 inches (136 x 70 x 9.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.69 oz (133.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust; IP57",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 294 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "72.35 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S4 Plus MSM8960",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1500 MHz, Krait",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 225",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA, MirrorLink",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-X70_id675",
+    "id": 2448,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7182-350/Panasonic-X70.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic X70",
+    "rating": 8.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "680 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.1 MP CIF (288x352) (Mirror)",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Other version supports GSM 900/1800/1900 MHz",
+          "name": ""
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.43 x 1.85 x 0.94 inches (87 x 47 x 24 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.35 oz (95.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "176 x 132 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "28 pixels 96 x",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.004GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (16 voices), Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 27, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NWJ22B002A link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-Lumix-CM1_id8923",
+    "id": 2452,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/49025-350/Panasonic-Lumix-CM1.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic Lumix CM1",
+    "rating": null,
+    "release_date": "October 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2600 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "20 MP (Autofocus, CMOS image sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.8/F11.0; Focal length: 28 mm; Sensor size: 1\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (15 fps), 1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.1 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSPA, HSUPA",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.33 x 2.68 x 0.83 inches (135.4 x 68 x 21 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "7.20 oz (204.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1080 pixels, 469 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "66.08 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 801 8974-AB",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2300 MHz, Krait 400",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 330",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "available to use: 16 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-Versio-TX320_id48",
+    "id": 2431,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7316-350/Panasonic-Versio-TX320.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic Versio TX320",
+    "rating": 2.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "740 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        },
+        {
+          "description": "800, 1900 MHz",
+          "name": "TDMA:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.60 x 1.70 x 0.70 inches (117 x 43 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.10 oz (88.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 06, 2001",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NWJ10A007A link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-VS3_id1135",
+    "id": 2436,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7672-350/Panasonic-VS3.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic VS3",
+    "rating": 7.3,
+    "release_date": "Feb 14, 2005",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.78 x 1.81 x 0.75 inches (96 x 46 x 19 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.53 oz (100.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "240 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-Allure-TX310_id49",
+    "id": 2435,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7320-350/Panasonic-Allure-TX310.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic Allure TX310",
+    "rating": 8.2,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "740 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "800 MHz",
+          "name": "AMPS:"
+        },
+        {
+          "description": "800, 1900 MHz",
+          "name": "TDMA:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.60 x 1.70 x 0.70 inches (117 x 43 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.70 oz (77.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 02, 2001",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NWJ10A003A link",
+          "name": "FCC ID value:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-Toughpad-A1_id6553",
+    "id": 2442,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/32939-350/Panasonic-Toughpad-A1.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic Toughpad A1",
+    "rating": null,
+    "release_date": "Nov 07, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4590 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "36 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Headphones port, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.50 x 8.30 x 0.67 inches (267 x 211 x 17 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "34.08 oz (966.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Temperature; IP65; MIL-STD-810 certified",
+          "name": "Resistance:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "768 x 1024 pixels, 127 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "56.18 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Dual-core, 1200 MHz, Marvell",
+          "name": "Processor:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (3.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-X800_id1076",
+    "id": 2450,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7653-350/Panasonic-X800.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic X800",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA (Mirror)",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "USB 1.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync, Infrared, SyncML",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.94 x 1.89 x 0.67 inches (100 x 48 x 17 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.49 oz (99.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers, Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "208 x 176 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "96 pixels 64 x, STN, Colors: 4096",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Symbian (6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (40 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 02, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NWJ21C001A link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.83 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.69 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Panasonic-VS7_id1134",
+    "id": 2453,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7676-350/Panasonic-VS7.jpg",
+    "manufacturer": "Panasonic",
+    "name": "Panasonic VS7",
+    "rating": null,
+    "release_date": "Feb 14, 2005",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP (Mirror)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.94 x 1.97 x 0.75 inches (100 x 50 x 19 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.53 oz (100.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Interchangeable covers",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "240 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "LCD",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration",
+          "name": "Notifications:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 11, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NWJ23C002A link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.41 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.20 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  }
+]

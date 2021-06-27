@@ -1,0 +1,3986 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Pre-GSM_id3530",
+    "id": 2712,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/12617-350/Palm-Pre-GSM.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Pre GSM",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 3.6 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.96 x 2.34 x 0.67 inches (100.5 x 59.5 x 16.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.76 oz (135.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 186 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "47.87 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, ARM Cortex-A8",
+          "name": "Processor:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-800w_id2912",
+    "id": 2718,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/10780-350/Palm-Treo-800w.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo 800w",
+    "rating": 7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "320x240 (QVGA)",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, 802.1x",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.41 x 2.28 x 0.73 inches (112 x 58 x 18.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.00 oz (142.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Stylus, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "333 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.1)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jul 14, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-715 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.42 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.45 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Pre-Plus_id4347",
+    "id": 2719,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/19512-350/Palm-Pre-Plus.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Pre Plus",
+    "rating": 8.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.96 x 2.34 x 0.67 inches (100.5 x 59.5 x 16.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.89 oz (138.5 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 186 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "47.87 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (1.3.5)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Tungsten-W_id488",
+    "id": 2721,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7359-350/Palm-Tungsten-W.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Tungsten W",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.80 x 3.07 x 0.67 inches (122 x 78 x 17 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.50 oz (184.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 33 MHz, Dragonball VZ",
+          "name": "Processor:"
+        },
+        {
+          "description": "MMC, SD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Palm OS (4.1)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-Pro-CDMA_id3328",
+    "id": 2729,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/12104-350/Palm-Treo-Pro-CDMA.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo Pro CDMA",
+    "rating": 7.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.49 x 2.36 x 0.53 inches (114 x 60 x 13 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.69 oz (133.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 320 pixels, 181 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "29.49 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm MSM7501A",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 528 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jan 08, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-SKYC link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.40 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.29 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Pre-2_id4849",
+    "id": 2727,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/22875-350/Palm-Pre-2.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Pre 2",
+    "rating": 7.5,
+    "release_date": "Oct 19, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 410",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.96 x 2.35 x 0.67 inches (100.7 x 59.6 x 16.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.11 oz (145.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 186 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "47.66 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (2.1, 2.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 19, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-ROAE link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.96 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "800 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.04 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "800 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Pixi-Plus-GSM_id4521",
+    "id": 2733,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20554-350/Palm-Pixi-Plus-GSM.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Pixi Plus GSM",
+    "rating": 7.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 3.6 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.37 x 2.17 x 0.43 inches (111 x 55 x 10.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.26 oz (92.5 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "400 x 320 pixels, 195 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "35.58 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (1.3.5)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Apr 16, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-PIXUW link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.60 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.71 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Pixi-Plus_id4308",
+    "id": 2713,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/19568-350/Palm-Pixi-Plus.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Pixi Plus",
+    "rating": 8.2,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.37 x 2.17 x 0.43 inches (111 x 55 x 10.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.26 oz (92.5 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "400 x 320 pixels, 195 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "35.58 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S1 MSM7627",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, ARM11",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 200",
+          "name": "GPU:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (1.3.5)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Dec 13, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-PIXEW link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.47 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.63 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Pre_id3375",
+    "id": 2711,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/11978-350/Palm-Pre.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Pre",
+    "rating": 9.9,
+    "release_date": "Jan 08, 2009",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.96 x 2.34 x 0.67 inches (100.5 x 59.5 x 16.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.76 oz (135.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 186 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "47.87 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, ARM Cortex-A8",
+          "name": "Processor:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 20, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-CASC link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.63 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.93 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-700w_id1373",
+    "id": 2717,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6257-350/Palm-Treo-700w.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo 700w",
+    "rating": 6.2,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP (Mirror)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Infrared, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.40 x 2.30 x 0.90 inches (112 x 58 x 23 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.00 oz (170.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus, Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "240 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 312 MHz, Intel XScale",
+          "name": "Processor:"
+        },
+        {
+          "description": "128 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "SD, MMC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 18, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8FJIMI link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.26 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.55 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-650-GSM_id1015",
+    "id": 2726,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5416-350/Palm-Treo-650-GSM.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo 650 (GSM)",
+    "rating": 7.7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA (Mirror)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.45 x 2.32 x 0.91 inches (113 x 59 x 23 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.00 oz (178.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 312 MHz, Intel PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.023GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "MMC, SD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Palm OS (5.4 (Garnet))",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 27, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8FCAGEM link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.94 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.69 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Pre-Plus-GSM_id4520",
+    "id": 2724,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20556-350/Palm-Pre-Plus-GSM.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Pre Plus GSM",
+    "rating": 8.5,
+    "release_date": "Mar 22, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 150",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "640x480 (VGA)",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 3.6 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.96 x 2.34 x 0.67 inches (100.5 x 59.5 x 16.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.89 oz (138.5 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 186 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "47.87 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (1.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Phone profiles, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 15, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-CASY link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.69 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "850 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.88 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "850 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Phone_id11026",
+    "id": 2732,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/74088-350/Palm-Phone.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Phone",
+    "rating": 6,
+    "release_date": "Oct 15, 2018",
+    "specs": {
+      "Battery": [
+        {
+          "description": "800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 350",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "EIS, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900), 4(AWS-1), 5(850), 12(700 a), 13(700 c), 17(700 b), 66(AWS-3)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSPA, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "eSIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.80 x 1.99 x 0.29 inches (96.6 x 50.6 x 7.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.20 oz (62.5 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Glass; Frame: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust; IP68",
+          "name": "Resistance:"
+        },
+        {
+          "description": "2D Face unlock",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 445 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "61.54 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 435 MSM8940",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 1400 MHz, ARM Cortex-A53, 64-bit, 28 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 505",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB (eMMC 5.1)",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (8.1 Oreo) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 06, 2018",
+          "name": "Date approved:"
+        },
+        {
+          "description": "2AOETPVG100 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.26 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.02 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.56 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.02 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-700p_id1604",
+    "id": 2716,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5942-350/Palm-Treo-700p.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo 700p",
+    "rating": 5.6,
+    "release_date": "Mar 15, 2006",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP (Mirror)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.40 x 2.30 x 0.90 inches (112 x 58 x 23 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.40 oz (180.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "312 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.06GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "MMC, SD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Palm OS (5.4 (Garnet))",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 17, 2006",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F93001 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.13 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.68 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-Pro_id2931",
+    "id": 2720,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/11080-350/Palm-Treo-Pro.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo Pro",
+    "rating": 7.5,
+    "release_date": "Aug 20, 2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 3.6 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.49 x 2.36 x 0.53 inches (114 x 60 x 13 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.69 oz (133.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm MSM7201",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 400 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 20, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-SKYG link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.50 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.61 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Centro-CDMA_id2404",
+    "id": 2715,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/8829-350/Palm-Centro-CDMA.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Centro CDMA",
+    "rating": 9,
+    "release_date": "Sep 27, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Proprietary",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.22 x 2.11 x 0.73 inches (107 x 53.5 x 18.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.20 oz (119.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, D-Pad, Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Palm OS (5.4 (Garnet))",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Phone profiles, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 09, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-747 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.35 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.42 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Pixi_id3691",
+    "id": 2714,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/17874-350/Palm-Pixi.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Pixi",
+    "rating": 9,
+    "release_date": "Sep 09, 2009",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.37 x 2.17 x 0.43 inches (111 x 55 x 10.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.51 oz (99.5 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "400 x 320 pixels, 195 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "35.58 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core",
+          "name": "Processor:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 26, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-PIXE link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.56 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.63 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-650-CDMA_id1013",
+    "id": 2722,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5413-350/Palm-Treo-650-CDMA.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo 650 (CDMA)",
+    "rating": 6.7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA (Mirror)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.40 x 2.30 x 0.90 inches (113.00 x 59.00 x 23 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.30 oz (178.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Stylus",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 312 MHz, Intel PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.023GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "MMC, SD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Palm OS (5.4 (Garnet))",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 25, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8FMADECA link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.50 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.99 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Pre-2-GSM_id4969",
+    "id": 2728,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/22878-350/Palm-Pre-2-GSM.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Pre 2 GSM",
+    "rating": 8,
+    "release_date": "Oct 19, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.96 x 2.35 x 0.67 inches (100.7 x 59.6 x 16.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.11 oz (145.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 186 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "47.66 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (2.2, 2.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 06, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-ROAY link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.01 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "850 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.29 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "850 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-750_id1744",
+    "id": 2730,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6503-350/Palm-Treo-750.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo 750",
+    "rating": 8.4,
+    "release_date": "Jan 07, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Infrared, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.37 x 2.28 x 0.86 inches (111 x 58 x 22 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.43 oz (154.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus, Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "240 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Samsung",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 300 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "60 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 08, 2006",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-KITT link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.16 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.23 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-680_id1776",
+    "id": 2734,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/6498-350/Palm-Treo-680.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo 680",
+    "rating": 8.6,
+    "release_date": "Oct 12, 2006",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        },
+        {
+          "description": "352x288 (CIF)",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.40 x 2.30 x 0.80 inches (112 x 58 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.50 oz (157.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 312 MHz, Marvell PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.064GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "MMC, SD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Palm OS (5.4 (Garnet))",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 09, 2006",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-850 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.32 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.21 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Centro_id2638",
+    "id": 2723,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/9764-350/Palm-Centro.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Centro",
+    "rating": 8,
+    "release_date": "Feb 19, 2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Proprietary",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Infrared, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.22 x 2.10 x 0.73 inches (107.2 x 53.5 x 18.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.23 oz (120.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus, Full keyboard, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 320 pixels, 206 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "27.31 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 312 MHz, Intel",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.06GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "64 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Palm OS (5.4 (Garnet))",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Phone profiles, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 20, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-728 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.19 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.30 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-500v_id2386",
+    "id": 2725,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/8775-350/Palm-Treo-500v.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo 500v",
+    "rating": 9.4,
+    "release_date": "Sep 12, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "miniUSB",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.33 x 2.42 x 0.64 inches (110 x 61.5 x 16.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.23 oz (120.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "240 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "0.15GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Standard (6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 13, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "MSQ-777 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.17 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.83 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Palm-Treo-755p_id2156",
+    "id": 2731,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/8395-350/Palm-Treo-755p.jpg",
+    "manufacturer": "Palm",
+    "name": "Palm Treo 755p",
+    "rating": 7.5,
+    "release_date": "May 09, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1600 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP (Mirror)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.44 x 2.33 x 0.84 inches (113 x 59 x 21 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.64 oz (160.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Stylus, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 320 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 312 MHz, Intel XScale",
+          "name": "Processor:"
+        },
+        {
+          "description": "128 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Palm OS (5.4 (Garnet))",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (WAV)",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 11, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-895 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.46 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.33 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  }
+]

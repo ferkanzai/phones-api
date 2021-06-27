@@ -1,0 +1,398 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Sprint-Express_id6578",
+    "id": 2710,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/33397-350/Sprint-Express.jpg",
+    "manufacturer": "Sprint",
+    "name": "Sprint Express",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.47 x 2.47 x 0.46 inches (114 x 63 x 12 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.76 oz (135.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Camera shutter",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 320 pixels, 154 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "29.39 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 600 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jul 22, 2011",
+          "name": "Date approved:"
+        },
+        {
+          "description": "QISM650 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.02 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.28 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "800 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Sprint-Force_id7763",
+    "id": 2709,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/39874-350/Sprint-Force.jpg",
+    "manufacturer": "Sprint",
+    "name": "Sprint Force",
+    "rating": 6.5,
+    "release_date": "Mar 01, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1730 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "LTE",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.88 x 2.54 x 0.47 inches (123.9 x 64.5 x 11.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.4 oz (153.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Left: Volume control; Right: Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "56.95 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S4 Plus MSM8960",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1500 MHz, Krait",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 225",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB, available to use: 2.3 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 05, 2013",
+          "name": "Date approved:"
+        },
+        {
+          "description": "Q78-ZTEN9100 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.41 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.44 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.53 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.53 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  }
+]

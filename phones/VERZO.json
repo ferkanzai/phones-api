@@ -1,0 +1,169 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/VERZO-KINZO_id6597",
+    "id": 2783,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/33260-350/VERZO-KINZO.jpg",
+    "manufacturer": "VERZO",
+    "name": "VERZO KINZO",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1530 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.47 oz (155.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 217 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1000 MHz, OMAP 3630",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.512GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Recording option",
+          "name": "Broadcast Mobile TV:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode",
+          "name": "Notifications:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Dec 08, 2011",
+          "name": "Date approved:"
+        },
+        {
+          "description": "Z2UKINZO link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.75 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.68 W/kg",
+          "name": "Body:"
+        }
+      ]
+    }
+  }
+]

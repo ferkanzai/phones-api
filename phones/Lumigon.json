@@ -1,0 +1,183 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Lumigon-T2_id6986",
+    "id": 2883,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35208-350/Lumigon-T2.jpg",
+    "manufacturer": "Lumigon",
+    "name": "Lumigon T2",
+    "rating": null,
+    "release_date": "Feb 28, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus, BSI sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 6(800), 5(850), 8(900), 4(1700/2100), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 14.4 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.57 x 2.28 x 0.39 inches (116 x 58 x 9.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Right: Volume control, Camera shutter",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 246 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "61.14 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S2",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1400 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Preset equalizer",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, FM Transmiter",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

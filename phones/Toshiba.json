@@ -1,0 +1,4634 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-TG01_id3455",
+    "id": 3614,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/12192-350/Toshiba-TG01.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba TG01",
+    "rating": 6,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.08 x 2.76 x 0.39 inches (129 x 70 x 9.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.55 oz (129.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 228 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "52.89 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S1 QSD8250",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1000 MHz, Scorpion",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 200",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.1)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 03, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "SP2-TM5-E01 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.37 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.44 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-FOLIO-100_id5251",
+    "id": 3622,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/29234-350/Toshiba-FOLIO-100.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba FOLIO 100",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1020 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, UMTS, HSUPA 2 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.06 x 7.13 x 0.55 inches (281 x 181 x 14 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "26.81 oz (760.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 118 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "56.42 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Dual-core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "SD, MMC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-TG02_id4453",
+    "id": 3616,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20529-350/Toshiba-TG02.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba TG02",
+    "rating": null,
+    "release_date": "Feb 15, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "Autofocus",
+          "name": "Main camera:"
+        },
+        {
+          "description": "640x480 (VGA)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Headphones port, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.96 x 2.60 x 0.39 inches (126 x 66 x 9.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.41 oz (125.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 228 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "57.51 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S1 QSD8250",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1000 MHz, Scorpion",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 200",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.5)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jan 29, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "SP2-TQ5-E01 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.20 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.30 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Excite-13_id7031",
+    "id": 3620,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35748-350/Toshiba-Excite-13.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Excite 13",
+    "rating": null,
+    "release_date": "Apr 11, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 749",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "HSPA, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "13.50 x 8.50 x 0.40 inches (343 x 216 x 10 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "35.20 oz (998.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "13.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "900 x 1600 pixels, 138 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "65.87 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 3",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Nvidia ULP GeForce 2",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "SD, SDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback, SRS Sound",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Encore-mini-WT7-C16_id8906",
+    "id": 3626,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/48921-350/Toshiba-Encore-mini-WT7-C16.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Encore mini WT7-C16",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 120",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.8 x 4.7 x 0.43 inches (198.1 x 119.4 x 10.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "12.5 oz (354.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1024 x 600 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.30 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z3735G",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1330 MHz, 64-bit, 22 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD Z3700 Series",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Custom equalizer",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-TS-921_id1233",
+    "id": 3628,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7733-350/Toshiba-TS-921.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba TS 921",
+    "rating": 6.8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "320x240 (QVGA)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Computer sync, Infrared",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.22 oz (148.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "112 pixels 112 x, Colors: 65 536",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "SD",
+          "name": "Storage expansion:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Notification light, Music ringtones (MP3), Polyphonic ringtones (64 voices), Vibration, Phone profiles",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Apr 29, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "SP2-CC4-E01 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.19 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.65 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Excite-7_id8325",
+    "id": 3637,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/45026-350/Toshiba-Excite-7.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Excite 7",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 170",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.8 x 4.6 x 0.43 inches (198 x 117 x 11 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "12.2 oz (346.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1024 x 600 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "59.57 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Rockchip RK3188",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1600 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-400 MP",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Thrive-7-Tablet_id6433",
+    "id": 3635,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/31748-350/Toshiba-Thrive-7-Tablet.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Thrive 7 Tablet",
+    "rating": null,
+    "release_date": "Sep 28, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.44 x 5.04 x 0.48 inches (189 x 128 x 12 mm)",
+          "name": "Dimensions:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "58.73 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 2",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (3.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Excite-Write_id8326",
+    "id": 3640,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/45033-350/Toshiba-Excite-Write.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Excite Write",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 600",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.2",
+          "name": "Specifications:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, dual-band, ac",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7 x 10.3 x 0.4 inches (178 x 262 x 10 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "23.68 oz (671.3 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1600 x 2560 pixels, 299 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "63.59 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 4",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, ARM Cortex A15s",
+          "name": "Processor:"
+        },
+        {
+          "description": "Nvidia GeForce",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Encore_id8145",
+    "id": 3623,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42886-350/Toshiba-Encore.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Encore",
+    "rating": 8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 330",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "8.39 x 5.35 x 0.42 inches (213 x 135.9 x 10.68 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "15.87 oz (450.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 189 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "64.08 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z3740",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1800 MHz, 64-bit, 22 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-AT200-100_id7018",
+    "id": 3615,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35353-350/Toshiba-AT200-100.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba AT200-100",
+    "rating": null,
+    "release_date": "Sep 01, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.08 x 6.93 x 0.30 inches (256 x 176 x 7.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "19.68 oz (535.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 149 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65.63 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP4430",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1200 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX540",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (3.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-PORTEGE-G900_id1980",
+    "id": 3613,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7922-350/Toshiba-PORTEGE-G900.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba PORTEGE G900",
+    "rating": 7,
+    "release_date": "Feb 12, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1320 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 3.6 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "USB 1.1",
+          "name": "USB:"
+        },
+        {
+          "description": "VoIP, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.68 x 2.40 x 0.84 inches (119 x 61 x 21.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.98 oz (198.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Fingerprint (swipe)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 311 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "35.35 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 512 MHz, Marvell PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "128 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "0.064GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 30, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "SP2-RG4-E02 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.50 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.13 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Portege-G810_id2614",
+    "id": 3619,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/9692-350/Toshiba-Portege-G810.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Portege G810",
+    "rating": 8.3,
+    "release_date": "Feb 11, 2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1530 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 3.6 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.33 x 2.28 x 0.55 inches (110 x 58 x 14 mm )",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.23 oz (120.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Soft keys, Stylus",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 141 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "38.94 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "Qualcomm MSM7200",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 400 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "FM, RDS",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Excite-10-SE_id7601",
+    "id": 3629,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/39370-350/Toshiba-Excite-10-SE.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Excite 10 SE",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "22.54 oz (639.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 149 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 3",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1500 MHz, ARM Cortex-A9, 32-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "Nvidia ULP GeForce 2",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "",
+          "name": "Video playback:"
+        },
+        {
+          "description": "Zoom, Stretch to fullscreen",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-PORTEGE-G500_id1968",
+    "id": 3627,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7917-350/Toshiba-PORTEGE-G500.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba PORTEGE G500",
+    "rating": 7.3,
+    "release_date": "Feb 12, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 3.6 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "USB 1.1",
+          "name": "USB:"
+        },
+        {
+          "description": "VoIP, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.77 x 1.92 x 0.90 inches (96 x 49 x 22.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.76 oz (135.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Fingerprint (swipe)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 174 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "35.08 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 416 MHz, Marvell PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.06GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "128 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Standard (5.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 09, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "SP2-RG4-E01 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.22 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.44 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Thrive_id5242",
+    "id": 3633,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/29174-350/Toshiba-Thrive.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Thrive",
+    "rating": 7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.75 x 6.97 x 0.62 inches (273 x 177 x 16 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "25.57 oz (725.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 149 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LED",
+          "name": "Technology:"
+        },
+        {
+          "description": "61.19 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 2",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "SD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (3.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-TG01-CDMA_id3881",
+    "id": 3634,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/16698-350/Toshiba-TG01-CDMA.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba TG01 CDMA",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.08 x 2.76 x 0.39 inches (129 x 70 x 9.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.55 oz (129.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 228 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "52.89 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S1",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.1)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jul 21, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "WVS-TM7-N01 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.13 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.99 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-G450_id2623",
+    "id": 3638,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/9719-350/Toshiba-G450.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba G450",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 3.6 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.85 x 1.41 x 0.62 inches (98 x 36 x 16 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.01 oz (57.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Left: Volume control; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "39 x 96 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.16GB",
+          "name": "Internal storage:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Excite-Go_id8685",
+    "id": 3625,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47936-350/Toshiba-Excite-Go.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Excite Go",
+    "rating": null,
+    "release_date": "May 27, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 110",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.8 x 4.7 x 0.43 inches (198 x 119 x 11 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "12.49 oz (354.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Right: Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Gold",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1024 x 600 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.30 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z3735G",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1330 MHz, 64-bit, 22 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD Z3700 Series",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-AT300_id7122",
+    "id": 3630,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36458-350/Toshiba-AT300.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba AT300",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.26 x 7.04 x 0.35 inches (260.6 x 178.9 x 8.95 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "20.81 oz (590.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 149 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "63.47 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 3",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1300 MHz, ARM Cortex-A9, 32-bit, 40 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "SD, SDHC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Excite-7.7_id7030",
+    "id": 3632,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35742-350/Toshiba-Excite-7.7.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Excite 7.7",
+    "rating": 6.8,
+    "release_date": "Apr 10, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 500",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "HSPA, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.30 x 8.10 x 0.30 inches (135 x 206 x 8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "13.40 oz (380.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "720 x 1280 pixels, 191 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.01 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 3",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Nvidia ULP GeForce 2",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback, SRS Sound",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-PORTEGE-G710_id2556",
+    "id": 3636,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/9467-350/Toshiba-PORTEGE-G710.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba PORTEGE G710",
+    "rating": null,
+    "release_date": "Jan 21, 2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1050 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "USB 1.1",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.50 x 2.44 x 0.50 inches (115 x 62 x 13 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.58 oz (130.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Camera shutter; Right: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 320 pixels, 163 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "26.46 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "260 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.06GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "128 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Standard (6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Excite-10-LE_id6162",
+    "id": 3639,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30909-350/Toshiba-Excite-10-LE.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Excite 10 LE",
+    "rating": null,
+    "release_date": "Sep 01, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.08 x 6.93 x 0.30 inches (256 x 176 x 7.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "19.68 oz (558.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 149 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "65.63 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP4430",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1200 MHz, ARM Cortex-A9, 32-bit, 45 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX540",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (3.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Encore-2-10.1-inch_id8687",
+    "id": 3618,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47267-350/Toshiba-Encore-2-10.1-inch.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Encore 2 10.1-inch",
+    "rating": null,
+    "release_date": "May 27, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 270",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.19 x 6.89 x 0.35 inches (258.8 x 175 x 8.98 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "19.58 oz (555.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Gold",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 149 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "65.30 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z3735G",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1330 MHz, 64-bit, 22 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD Z3700 Series",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Digital Plus",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Excite-10_id7029",
+    "id": 3617,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35738-350/Toshiba-Excite-10.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Excite 10",
+    "rating": 7,
+    "release_date": "Apr 10, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 650",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.30 x 7.00 x 0.35 inches (262 x 178 x 9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "21.12 oz (599.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 149 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "63.59 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass, Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 3",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, ARM Cortex-A9, 32-bit, 40 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Nvidia GeForce",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "SD, SDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, SRS Sound",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-K01_id4454",
+    "id": 3621,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20528-350/Toshiba-K01.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba K01",
+    "rating": null,
+    "release_date": "Feb 15, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "Autofocus",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 228 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.5)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Mar 29, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "SP2-RQ5-E01 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.37 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.36 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-Encore-2-8-inch_id8686",
+    "id": 3624,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47263-350/Toshiba-Encore-2-8-inch.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba Encore 2 8-inch",
+    "rating": null,
+    "release_date": "May 27, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 200",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (24 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "8.29 x 5.20 x 0.37 inches (210.62 x 132 x 9.48 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "13.58 oz (385.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Gold",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 189 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "66.73 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Digital Plus",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Toshiba-PORTEGE-G910_id2563",
+    "id": 3631,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/9469-350/Toshiba-PORTEGE-G910.jpg",
+    "manufacturer": "Toshiba",
+    "name": "Toshiba PORTEGE G910",
+    "rating": null,
+    "release_date": "Jan 21, 2008",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1320 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 3.6 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "VoIP, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.60 x 2.51 x 0.77 inches (117 x 64 x 19.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.45 oz (183.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Fingerprint (swipe)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Stylus, Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 800 pixels, 311 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "34.39 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "OLED",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "400 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Dec 14, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "SP2-CH5-E01 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.33 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.66 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  }
+]

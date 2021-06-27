@@ -1,0 +1,6246 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-9_id8926",
+    "id": 219,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/49489-350/Google-Nexus-9.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus 9",
+    "rating": 9.3,
+    "release_date": "Oct 15, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "6700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus, BSI sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.4; Focal length: 29.2 mm; Sensor size: 1/4\"; Pixel size: 1.12 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.6 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 20(800 DD)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 3 (100/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, BeiDou",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "8.99 x 6.05 x 0.31 inches (228.25 x 153.68 x 7.95 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "15.38 oz (436.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Brown, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.9 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2048 x 1536 pixels, 288 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "69.90 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra K1",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 2300 MHz, Denver, 28 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Kepler",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB DDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (7.1 Nougat, 7.0 Nougat, 5.0 Lollipop) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-6_id8626",
+    "id": 221,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/49488-350/Google-Nexus-6.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus 6",
+    "rating": 9,
+    "release_date": "Oct 15, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3220 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "13 MP (OIS, Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (30 fps), 1280x720 (HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 3(1800), 5(850), 7(2600), 8(900), 19(800 Upper), 20(800 DD), 28(700 APT)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 6(800), 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 6 (300/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSDPA+ (4G) 21.1 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "VoLTE:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.27 x 3.27 x 0.40 inches (159.26 x 82.98 x 10.06 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.49 oz (184.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Splash",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2560 x 1440 pixels, 493 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "74.03 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 805 APQ8084",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2700 MHz, Krait 450",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 420",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB, available to use: 58 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (7.1 Nougat, 7.0 Nougat, 6.0 Marshmallow, 5.1 Lollipop, 5.0 Lollipop) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 24, 2014",
+          "name": "Date approved:"
+        },
+        {
+          "description": "IHDT56QD1 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.86 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.36 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.56 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "0.42 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-2_id10584",
+    "id": 227,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/69468-350/Google-Pixel-2.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 2",
+    "rating": 9,
+    "release_date": "Oct 04, 2017",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "USB Power Delivery",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 749",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, Laser and PDAF, CMOS image sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.8; Focal length: 27 mm; Sensor size: 1/2.6\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, EIS, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 17(700 b), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 32(1500 L-band), 66(AWS-3)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 40(2300), 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 15/5 (800/75 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM, eSIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Headphones port, Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Hall (for flip covers), Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.74 x 2.74 x 0.31 inches (145.7 x 69.7 x 7.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.04 oz (143.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum, Glass",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust; IP67",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1080 pixels, 16:9 ratio, 441 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "67.92 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 835 MSM8998",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2350 MHz, Kryo 280, 64-bit, 10 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 540",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11, 10, 9.0 Pie, 8.1 Oreo, 8.0 Oreo) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 15, 2017",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NM8G011A link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.79 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.11 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.47 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "0.12 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-7-2013_id8021",
+    "id": 229,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42118-350/Google-Nexus-7-2013.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus 7 (2013)",
+    "rating": 9.5,
+    "release_date": "Jul 24, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3950 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 350",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.4",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 4(AWS-1), 5(850), 13(700 c), 17(700 b)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE, HSPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Video out, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.87 x 4.49 x 0.34 inches (200 x 114 x 8.65 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "10.55 oz (299.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1920 pixels, 323 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "62.32 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "300 cd/m2 (nit)",
+          "name": "Peak brightness:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass), Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S4 Pro APQ8064",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1500 MHz, Krait",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 320",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.0 Lollipop, 4.4.4, 4.4.3, 4.4.2, 4.4, 4.3) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "SlimPort, TV-out",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-S-4G_id5326",
+    "id": 235,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/27607-350/Google-Nexus-S-4G.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus S 4G",
+    "rating": 8.5,
+    "release_date": "Mar 21, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 550",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.6",
+          "name": "Specifications:"
+        },
+        {
+          "description": "720x480 (DVD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video light, Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "WiMAX",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.88 x 2.48 x 0.44 inches (124 x 63 x 11 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.60 oz (130.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Lock/Unlock key",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Super AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.33 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Samsung Exynos 3",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1000 MHz, ARM Cortex-A8",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX540",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.1, 2.3.7, 2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "DLNA",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Apr 08, 2011",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A3LSPHD720 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.64 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.95 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-3a-XL_id11069",
+    "id": 237,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/75921-350/Google-Pixel-3a-XL.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 3a XL",
+    "rating": 9,
+    "release_date": "May 07, 2019",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "link",
+          "name": "Battery life test results:"
+        },
+        {
+          "description": "USB Power Delivery",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 479",
+          "name": "Price:"
+        },
+        {
+          "description": "18W USB-C power adapter, 1M USB-C to USB-C cable (USB 2.0), Quick Start Guide, Quick Switch Adapter, SIM tool",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.8; Focal length: 28 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "EIS",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 17(700 b), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 32(1500 L-band), 66(AWS-3)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 40(2300), 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 11 (600/75 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.30 x 3.00 x 0.32 inches (160.1 x 76.1 x 8.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.89 oz (167.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Black, Purple, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "76.19 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "6.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2160 x 1080 pixels, 18:9 ratio, 402 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Scratch-resistant glass (Dragontrail), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 670 SDM670",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2000 MHz, Kryo 360, 64-bit, 10 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 615",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11, 10, 9.0 Pie)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 25, 2019",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A4RG020 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.33 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.18 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.59 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.18 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-3a_id11060",
+    "id": 241,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/75916-350/Google-Pixel-3a.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 3a",
+    "rating": 9,
+    "release_date": "May 07, 2019",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "link",
+          "name": "Battery life test results:"
+        },
+        {
+          "description": "USB Power Delivery",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 399",
+          "name": "Price:"
+        },
+        {
+          "description": "18W USB-C power adapter, 1M USB-C to USB-C cable (USB 2.0), Quick Start Guide, Quick Switch Adapter, SIM tool",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.8; Focal length: 28 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "EIS",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 17(700 b), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 32(1500 L-band), 66(AWS-3)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 40(2300), 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 11 (600/75 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.96 x 2.76 x 0.32 inches (151.3 x 70.1 x 8.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.19 oz (147.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Purple, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2220 x 1080 pixels, 18.5:9 ratio, 444 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "73.93 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Scratch-resistant glass (Dragontrail), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 670 SDM670",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2000 MHz, Kryo 360, 64-bit, 10 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 615",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB (eMMC), not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11, 10, 9.0 Pie)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 25, 2019",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A4RG020G link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.15 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.13 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.59 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.19 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-C_id9677",
+    "id": 220,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/56102-350/Google-Pixel-C.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel C",
+    "rating": null,
+    "release_date": "Sep 29, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 599",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2.1 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Hall (for flip covers)",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.53 x 7.05 x 0.28 inches (242 x 179 x 7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "17.6 oz (499.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum",
+          "name": "Materials:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1800 x 2560 pixels, 308 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "72.29 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "500 cd/m2 (nit)",
+          "name": "Peak brightness:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Oleophobic coating, Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Maxwell",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "NVIDIA Tegra X1",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, ARM Cortex-A57 and ARM Cortex-A53, 64-bit, 20 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Android (8.1 Oreo, 8.0 Oreo, 7.1 Nougat, 7.0 Nougat, 6.0 Marshmallow)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-5_id8148",
+    "id": 222,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/43727-350/Google-Nexus-5.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus 5",
+    "rating": 9.5,
+    "release_date": "Oct 31, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2300 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 399",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (OIS, Autofocus, BSI sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.4; Focal length: 30.4 mm; Sensor size: 1/3.2\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, Video light",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800 DD)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 6(800), 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Hotspot, Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Video out, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer, Step detector, Step counter",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, ANT+, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.43 x 2.72 x 0.34 inches (137.84 x 69.17 x 8.59 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.59 oz (130.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Left: Volume control; Right: Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Red, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1080 pixels, 445 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "70.89 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 800 MSM8974",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2260 MHz, Krait 400",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 330",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (6.0 Marshmallow, 5.1 Lollipop, 5.0 Lollipop, 4.4.4, 4.4.2, 4.4) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA, Wireless screen share, SlimPort, TV-out",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation, Video recording",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 04, 2013",
+          "name": "Date approved:"
+        },
+        {
+          "description": "ZNFD821 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.92 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.01 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.46 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.23 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-4_id7531",
+    "id": 224,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/38618-350/Google-Nexus-4.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus 4",
+    "rating": 9,
+    "release_date": "Oct 29, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "USB sync/charge cable, AC Adapter and cable, SIM ejection tool, Safety and Warranty information, Quick start guide",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus, CMOS image sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Sensor size: 1/4\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n, dual-band; Hotspot, Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Video out, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.27 x 2.70 x 0.36 inches (133.9 x 68.7 x 9.1 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.90 oz (139.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Glass",
+          "name": "Materials:"
+        },
+        {
+          "description": "Left: Volume control; Right: Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 768 pixels, 318 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "68.49 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 2), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S4 Pro APQ8064",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1500 MHz, Krait",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 320",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.1 Lollipop, 5.0 Lollipop, 4.4.4, 4.4.3, 4.4.2, 4.4, 4.3, 4.2.2, 4.2.1, 4.2) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Preset equalizer",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA, Wireless screen share, SlimPort, TV-out",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 07, 2012",
+          "name": "Date approved:"
+        },
+        {
+          "description": "ZNFE960 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.55 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.27 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.50 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.27 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-3-XL_id10926",
+    "id": 230,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/73494-350/Google-Pixel-3-XL.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 3 XL",
+    "rating": 9,
+    "release_date": "Oct 09, 2018",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3430 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "USB Power Delivery, Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 899",
+          "name": "Price:"
+        },
+        {
+          "description": "Quick Switch Adapter, USB-C to USB-C cable, USB-C 18W Power adapter, Pixel USB-C earbuds, USB-C to 3.5mm headphone adapter, SIM tool, Quick Start Guide",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, PDAF, CMOS image sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.8; Focal length: 28 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, EIS, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP (Dual-Camera, Wide Angle, Autofocus)",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 17(700 b), 18(800 Lower), 19(800 Upper), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 32(1500 L-band), 66(AWS-3), 71(600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+), 46",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Pro Cat 16 (1000/150 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM, eSIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        },
+        {
+          "description": "Yes",
+          "name": "VoLTE:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Headphones port, Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.22 x 3.02 x 0.31 inches (158 x 76.7 x 7.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.49 oz (184.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Glass (Corning Gorilla Glass 5); Frame: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust; IP68",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Pink, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2960 x 1440 pixels, 18.5:9 ratio, 522 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Super AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "83.12 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "HDR support, Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 845 SDM845",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2500 MHz, Kryo 385, 64-bit, 10 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 630",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11, 10, 9.0 Pie) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 31, 2018",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A4RG013C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.35 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.19 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.59 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.35 W/kg",
+          "name": "Wireless Router:"
+        },
+        {
+          "description": "3.48 W/kg",
+          "name": "Phablet:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel_id10264",
+    "id": 232,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/63686-350/Google-Pixel.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel",
+    "rating": 9,
+    "release_date": "Oct 04, 2016",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2770 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "USB Power Delivery",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 749",
+          "name": "Price:"
+        },
+        {
+          "description": "USB-C 18W adaptor with USB-PD, A-C cable (USB 3.0), C-C cable (USB 2.0), SIM tool, Quick switch adapter, In box promos and collateral",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.3 MP (Laser and PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0; Sensor size: 1/2.3\"; Pixel size: 1.55 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 17(700 b), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 11 (600/75 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Hall (for flip covers), Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, UMA (Wi-Fi Calling), Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.66 x 2.74 x 0.34 inches (143.84 x 69.54 x 8.58 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.04 oz (143.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum, Glass",
+          "name": "Materials:"
+        },
+        {
+          "description": "Splash, Dust; IP53",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Gray, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1080 pixels, 16:9 ratio, 441 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "68.88 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Oleophobic coating, Scratch-resistant glass (Corning Gorilla Glass 4), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 821 MSM8996 Pro",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2150 MHz, Kryo, 64-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 530",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (10, 9.0 Pie, 8.1 Oreo, 8.0 Oreo, 7.1 Nougat) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 12, 2017",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NM8G-2PW4100 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.92 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.58 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.08 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "0.58 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-5X_id9593",
+    "id": 236,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/56080-350/Google-Nexus-5X.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus 5X",
+    "rating": 8.5,
+    "release_date": "Sep 29, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 429",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.3 MP (Laser autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0; Sensor size: 1/2.3\"; Pixel size: 1.55 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD), 1280x720 (HD) (120 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 9(1800), 17(700 b), 18(800 Lower), 19(800 Upper), 20(800 DD), 26(850+), 28(700 APT)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 40(2300), 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 6(800), 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 6 (300/50 Mbit/s), HSPA, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Hall (for flip covers), Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.79 x 2.86 x 0.31 inches (147 x 72.6 x 7.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.80 oz (136.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1920 x 1080 pixels, 423 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "70.04 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Oleophobic coating, Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 808 MSM8992",
+          "name": "System chip:"
+        },
+        {
+          "description": "Hexa-core, 1800 MHz, ARM Cortex-A57 and ARM Cortex-A53, 64-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 418",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (8.1 Oreo, 8.0 Oreo, 7.1 Nougat, 7.0 Nougat, 6.0 Marshmallow) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-4_id11191",
+    "id": 240,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/77396-350/Google-Pixel-4.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 4",
+    "rating": 9,
+    "release_date": "Oct 15, 2019",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "USB Power Delivery, Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 799",
+          "name": "Price:"
+        },
+        {
+          "description": "18W USB-C power adapter, 1m USB-C to USB-C cable, Quick Start Guide, Quick Switch Adapter, SIM tool",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Dual camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.7; Focal length: 28 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "16 MP (Telephoto, OIS, PDAF)",
+          "name": "Second camera:"
+        },
+        {
+          "description": "Aperture size: F2.4; Focal Length: 45 mm; Pixel size: 1 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, Time-lapse video, EIS",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP (Dual-Camera, Time-of-Flight (ToF))",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 14(700 PS), 17(700 b), 18(800 Lower), 19(800 Upper), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 66(AWS-3), 71(600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+), 46, 48(3600)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Pro Cat 18 (1200/150 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM, eSIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Headphones port",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.79 x 2.71 x 0.32 inches (147.1 x 68.8 x 8.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.71 oz (162.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Glass (Corning Gorilla Glass 5); Frame: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust; IP68",
+          "name": "Resistance:"
+        },
+        {
+          "description": "3D Face unlock",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Just black, Clearly white, Oh so orange",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2280 x 1080 pixels, 19:9 ratio, 443 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "77.32 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "90Hz refresh rate, HDR support, Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 855 SM8150",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2840 MHz, Kryo 485, 64-bit, 7 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 640",
+          "name": "GPU:"
+        },
+        {
+          "description": "6GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11, 10) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 03, 2019",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A4RG020I link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.20 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.34 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.59 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.01 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-Slate_id11023",
+    "id": 218,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/74706-350/Google-Pixel-Slate.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel Slate",
+    "rating": null,
+    "release_date": "Oct 09, 2018",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "USB Power Delivery",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 1599",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.8; Pixel size: 1.12 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP (Wide Angle)",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Hotspot, Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Video out, Charging, Headphones port",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Hall (for flip covers)",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.45 x 7.95 x 0.28 inches (290.85 x 202.04 x 7.0 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "25.79 oz (731.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Blue",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "12.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2000 x 3000 pixels, 293 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "76.71 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "400 cd/m2 (nit)",
+          "name": "Peak brightness:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Core-i7 8500Y",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1500 MHz, 64-bit, 14 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD Graphics 615",
+          "name": "GPU:"
+        },
+        {
+          "description": "16GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Chrome OS",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-7_id7143",
+    "id": 226,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36897-350/Google-Nexus-7.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus 7",
+    "rating": 9,
+    "release_date": "Jun 27, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4325 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.81 x 4.72 x 0.41 inches (198.5 x 120 x 10.45 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "11.99 oz (340.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.74 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 3 T30L",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1300 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "Nvidia ULP GeForce",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.1 Lollipop, 5.0 Lollipop, 4.4, 4.3, 4.2.2, 4.2.1, 4.2, 4.1.2, 4.1.1, 4.1) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-4a-5G_id11395",
+    "id": 231,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/80466-350/Google-Pixel-4a-5G.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 4a 5G",
+    "rating": 9.1,
+    "release_date": "Sep 30, 2020",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3885 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "USB Power Delivery",
+          "name": "Charging:"
+        },
+        {
+          "description": "Wired: 18.0W",
+          "name": "Max charge speed:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 500",
+          "name": "Price:"
+        },
+        {
+          "description": "18W USB-C power adapter, 1 m USB-C to USB-C cable (USB 2.0), Quick Start Guide, Quick Switch Adapter SIM tool",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Dual camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.7; Focal length: 28 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "16 MP (Ultra-wide)",
+          "name": "Second camera:"
+        },
+        {
+          "description": "Aperture size: F2.2; Pixel size: 1 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (60 fps), 1920x1080 (Full HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, Time-lapse video, EIS",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP (Dual-Camera, Time-of-Flight (ToF))",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "n1, n2, n5, n12, n25, n28, n41, n66, n71, n78, Sub-6",
+          "name": "5G:"
+        },
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 14(700 PS), 17(700 b), 18(800 Lower), 19(800 Upper), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 32(1500 L-band), 66(AWS-3), 71(600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+), 42(3500), 46, 48(3600)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A, HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM, eSIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.06 x 2.91 x 0.32 inches (153.9 x 74.0 x 8.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.93 oz (168.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Just black, Clearly white",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2340 x 1080 pixels, 19.5:9 ratio, 416 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "82.94 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "60Hz refresh rate, HDR support, Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 765G SM7250-AB",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2400 MHz, Kryo 475, 64-bit, 7 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 620",
+          "name": "GPU:"
+        },
+        {
+          "description": "6GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB (UFS 2.1), not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX, aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 01, 2020",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A4RG025E link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.20 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.20 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.57 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.00 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-3_id10932",
+    "id": 238,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/73478-350/Google-Pixel-3.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 3",
+    "rating": 9,
+    "release_date": "Oct 09, 2018",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2915 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "USB Power Delivery, Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 799",
+          "name": "Price:"
+        },
+        {
+          "description": "Quick Switch Adapter, USB-C to USB-C cable, USB-C 18W Power adapter, Pixel USB-C earbuds, USB-C to 3.5mm headphone adapter, SIM tool, Quick Start Guide",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, PDAF, CMOS image sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.8; Focal length: 28 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, EIS, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP (Dual-Camera, Wide Angle, Autofocus)",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 17(700 b), 18(800 Lower), 19(800 Upper), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 32(1500 L-band), 66(AWS-3), 71(600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+), 46",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Pro Cat 16 (1000/150 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM, eSIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        },
+        {
+          "description": "Yes",
+          "name": "VoLTE:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Headphones port, Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.73 x 2.69 x 0.31 inches (145.6 x 68.2 x 7.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.22 oz (148.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Glass (Corning Gorilla Glass 5); Frame: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust; IP68",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Pink, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2160 x 1080 pixels, 18:9 ratio, 442 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "P-OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "77.36 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "HDR support, Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 845 SDM845",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2500 MHz, Kryo 385, 64-bit, 10 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 630",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11, 10, 9.0 Pie) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Aug 31, 2018",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A4RG013A link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.34 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.34 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.59 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.34 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-4a_id11311",
+    "id": 239,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/79611-350/Google-Pixel-4a.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 4a",
+    "rating": 9.1,
+    "release_date": "Aug 03, 2020",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3140 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "link",
+          "name": "Battery life test results:"
+        },
+        {
+          "description": "USB Power Delivery",
+          "name": "Charging:"
+        },
+        {
+          "description": "Wired: 18.0W",
+          "name": "Max charge speed:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 349",
+          "name": "Price:"
+        },
+        {
+          "description": "18W USB-C power adapter, 1 m USB-C to USB-C cable (USB 2.0), Quick Start Guide, Quick Switch Adapter, SIM tool",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.7; Focal length: 27 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "EIS",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 14(700 PS), 17(700 b), 18(800 Lower), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 66(AWS-3), 71(600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 11 (600/75 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM, eSIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.67 x 2.73 x 0.32 inches (144 x 69.4 x 8.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.04 oz (143.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic; Frame: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Just black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2340 x 1080 pixels, 19.5:9 ratio, 444 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "82.53 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "60Hz refresh rate, HDR support, Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 730 SM7150-AA",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2200 MHz, Kryo 470, 64-bit, 8 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 618",
+          "name": "GPU:"
+        },
+        {
+          "description": "6GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11, 10)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX, aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 25, 2020",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A4RG025J link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.18 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.19 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.59 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.00 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-XL_id10263",
+    "id": 223,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/63688-350/Google-Pixel-XL.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel XL",
+    "rating": 9,
+    "release_date": "Oct 04, 2016",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3450 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "USB Power Delivery",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 869",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.3 MP (Laser and PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0; Sensor size: 1/2.3\"; Pixel size: 1.55 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 17(700 b), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 11 (600/75 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Hall (for flip covers), Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, UMA (Wi-Fi Calling), Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.09 x 2.98 x 0.34 inches (154.72 x 75.74 x 8.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.93 oz (168.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum, Glass",
+          "name": "Materials:"
+        },
+        {
+          "description": "Splash, Dust; IP53",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Gray, Blue",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2560 x 1440 pixels, 16:9 ratio, 534 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "71.22 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Oleophobic coating, Scratch-resistant glass (Corning Gorilla Glass 4), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 821 MSM8996 Pro",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2150 MHz, Kryo, 64-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 530",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (10, 9.0 Pie, 8.1 Oreo, 8.0 Oreo, 7.1 Nougat) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 12, 2017",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NM8G-2PW2100 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.89 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.56 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.15 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "0.56 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-2-XL_id10568",
+    "id": 225,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/69466-350/Google-Pixel-2-XL.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 2 XL",
+    "rating": 9,
+    "release_date": "Oct 04, 2017",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3520 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "USB Power Delivery",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 949",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, Laser and PDAF, CMOS image sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.8; Focal length: 27 mm; Sensor size: 1/2.6\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, EIS, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 17(700 b), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 32(1500 L-band), 66(AWS-3)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 40(2300), 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 15/5 (800/75 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Headphones port, Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Hall (for flip covers), Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.22 x 3.02 x 0.31 inches (157.9 x 76.7 x 7.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.17 oz (175.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum, Glass",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust; IP67",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2880 x 1440 pixels, 18:9 ratio, 537 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "P-OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "76.66 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 835 MSM8998",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2350 MHz, Kryo 280, 64-bit, 10 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 540",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11, 10, 9.0 Pie, 8.1 Oreo, 8.0 Oreo) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 19, 2017",
+          "name": "Date approved:"
+        },
+        {
+          "description": "ZNFG011C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.00 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.40 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.59 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "0.41 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-4-XL_id11202",
+    "id": 228,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/77411-350/Google-Pixel-4-XL.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 4 XL",
+    "rating": 9,
+    "release_date": "Oct 15, 2019",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3700 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "link",
+          "name": "Battery life test results:"
+        },
+        {
+          "description": "USB Power Delivery, Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 899",
+          "name": "Price:"
+        },
+        {
+          "description": "18W USB-C power adapter, 1m USB-C to USB-C cable, Quick Start Guide, Quick Switch Adapter, SIM tool",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Dual camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.7; Focal length: 28 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "16 MP (Telephoto, OIS, PDAF)",
+          "name": "Second camera:"
+        },
+        {
+          "description": "Aperture size: F2.4; Focal Length: 45 mm; Pixel size: 1 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, Time-lapse video, EIS",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP (Time-of-Flight (ToF))",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 14(700 PS), 17(700 b), 18(800 Lower), 19(800 Upper), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 66(AWS-3), 71(600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+), 46, 48(3600)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 1(2100), 2(1900), 4(1700/2100), 5(850), 8(900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Pro Cat 18 (1200/150 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM, eSIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Headphones port",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.31 x 2.96 x 0.32 inches (160.4 x 75.1 x 8.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.81 oz (193.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Glass (Corning Gorilla Glass 5); Frame: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust; IP68",
+          "name": "Resistance:"
+        },
+        {
+          "description": "3D Face unlock",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Just black, Clearly white, Oh so orange",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "3040 x 1440 pixels, 19:9 ratio, 534 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "82.21 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "90Hz refresh rate, HDR support, Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 855 SM8150",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2840 MHz, Kryo 485, 64-bit, 7 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 640",
+          "name": "GPU:"
+        },
+        {
+          "description": "6GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB, not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11, 10) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 03, 2019",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A4RG020J link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.35 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1.18 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.59 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.00 W/kg",
+          "name": "Wireless Router:"
+        },
+        {
+          "description": "3.57 W/kg",
+          "name": "Phablet:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-S_id4990",
+    "id": 233,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/23642-350/Google-Nexus-S.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus S",
+    "rating": 8.5,
+    "release_date": "Dec 07, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 530",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "720x480 (DVD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video light, Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 4(1700/2100), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.88 x 2.48 x 0.43 inches (123.9 x 63 x 10.88 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.55 oz (129.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Lock/Unlock key",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Super AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.33 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Samsung Exynos 3",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 1000 MHz, ARM Cortex-A8",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX540",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.1.2, 4.1.1, 4.0.4, 4.0.3, 4.0.2, 2.3.6, 2.3.3, 2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 22, 2010",
+          "name": "Date approved:"
+        },
+        {
+          "description": "A3LGTI9020T link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.51 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1700 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.78 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "850 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Pixel-5_id11394",
+    "id": 234,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/80464-350/Google-Pixel-5.jpg",
+    "manufacturer": "Google",
+    "name": "Google Pixel 5",
+    "rating": 8.7,
+    "release_date": "Sep 30, 2020",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4080 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "link",
+          "name": "Battery life test results:"
+        },
+        {
+          "description": "USB Power Delivery, Qi wireless charging, Reverse wireless charging",
+          "name": "Charging:"
+        },
+        {
+          "description": "Wired: 18.0W",
+          "name": "Max charge speed:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 700",
+          "name": "Price:"
+        },
+        {
+          "description": "18W USB-C power adapter, 1 m USB-C to USB-C cable (USB 2.0), Quick Start Guide, Quick Switch Adapter, SIM tool",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Dual camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.2 MP (OIS, PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.7; Focal length: 28 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "16 MP (Ultra-wide)",
+          "name": "Second camera:"
+        },
+        {
+          "description": "Aperture size: F2.2; Pixel size: 1 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (60 fps), 1920x1080 (Full HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Time-lapse video, EIS",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "n1, n2, n3, n5, n7, n8, n12, n28, n41, n66, n71, n77, n78, n258, n260, n261, Sub-6, mmWave",
+          "name": "5G:"
+        },
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 14(700 PS), 17(700 b), 18(800 Lower), 19(800 Upper), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 32(1500 L-band), 66(AWS-3), 71(600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+), 42(3500), 46, 48(3600)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 6(800), 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A, HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM, eSIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Headphones port",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.70 x 2.77 x 0.31 inches (144.7 x 70.4 x 8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.33 oz (151.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum; Frame: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust; IP68",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Just black, Sorta sage",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2340 x 1080 pixels, 19.5:9 ratio, 430 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "86.75 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "90Hz refresh rate, HDR support, Scratch-resistant glass (Corning Gorilla Glass 6), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 765G SM7250-AB",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2400 MHz, Kryo 475, 64-bit, 7 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 620",
+          "name": "GPU:"
+        },
+        {
+          "description": "8GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB (UFS 2.1), not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (11) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX, aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-6P_id9587",
+    "id": 242,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/56087-350/Google-Nexus-6P.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus 6P",
+    "rating": 8.8,
+    "release_date": "Sep 29, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3450 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 649",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12.3 MP (Laser autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0; Sensor size: 1/2.3\"; Pixel size: 1.55 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD), 1280x720 (HD) (240 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 12(700 a), 13(700 c), 17(700 b), 25(1900+), 29(700 d), 30(2300 WCS)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 6(800), 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 6 (300/50 Mbit/s), HSPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Pedometer, Compass, Hall (for flip covers), Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.27 x 3.06 x 0.29 inches (159.3 x 77.8 x 7.3 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.28 oz (178.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Gold, Silver, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2560 x 1440 pixels, 518 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "71.60 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Oleophobic coating, Scratch-resistant glass (Corning Gorilla Glass 4), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 810 MSM8994",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2000 MHz, ARM Cortex-A57 and ARM Cortex-A53, 64-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 430",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (8.1 Oreo, 8.0 Oreo, 7.1 Nougat, 7.0 Nougat, 6.0 Marshmallow) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 28, 2015",
+          "name": "Date approved:"
+        },
+        {
+          "description": "QISH1511 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.49 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.81 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.56 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.44 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Google-Nexus-10_id7551",
+    "id": 243,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/38613-350/Google-Nexus-10.jpg",
+    "manufacturer": "Google",
+    "name": "Google Nexus 10",
+    "rating": 9,
+    "release_date": "Oct 29, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "9000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 499",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.9 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.39 x 6.99 x 0.35 inches (263.9 x 177.6 x 8.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "21.27 oz (603.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1600 x 2560 pixels, 300 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "True RGB Real Stripe PLS",
+          "name": "Technology:"
+        },
+        {
+          "description": "62.50 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 2), Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Samsung Exynos 5 Dual 5250",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1700 MHz, ARM Cortex-A15, 32-bit, 32 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-T604 MP4",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (5.1 Lollipop, 5.0 Lollipop, 4.4.4, 4.4.2, 4.4, 4.3, 4.2.2, 4.2.1, 4.2) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA, TV-out",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

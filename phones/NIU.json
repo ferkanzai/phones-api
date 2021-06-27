@@ -1,0 +1,2763 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-TEK-Q_id7166",
+    "id": 2890,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36740-350/NIU-TEK-Q.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU TEK Q",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.25 x 2.34 x 0.54 inches (107.9 x 59.4 x 13.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.58 oz (73.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Soft keys, D-Pad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 480 pixels, 251 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "24.55 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "450 MHz, ARM9",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, Stereo, Recording option",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones, Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-PANA_id7161",
+    "id": 2894,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36732-350/NIU-PANA.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU PANA",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "850 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.37 x 2.30 x 0.46 inches (111 x 58.5 x 11.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.40 oz (68.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, Blue, Red, White, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 182 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "23.11 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.064GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSD up to 2 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "FM, Stereo, Recording option",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-GO-20_id8552",
+    "id": 2893,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/46155-350/NIU-GO-20.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU GO 20",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.98 x 1.72 x 0.55 inches (101 x 43.8 x 14 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.12 oz (60.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, Purple, Blue, Red, White, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 128 pixels, 114 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "23.09 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-TEK_id7167",
+    "id": 2897,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36741-350/NIU-TEK.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU TEK",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.24 x 2.29 x 0.54 inches (107.8 x 58.2 x 13.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.50 oz (71.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 206 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "37.27 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 450 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-LIV-70_id8101",
+    "id": 2901,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42629-350/NIU-LIV-70.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU LIV 70",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 114 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "Yes",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        },
+        {
+          "description": "Analog TV",
+          "name": "Broadcast Mobile TV:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-LOTTO_id7160",
+    "id": 2903,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36731-350/NIU-LOTTO.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU LOTTO",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "750 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.39 x 1.85 x 0.52 inches (111.5 x 47 x 13.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "1.94 oz (55.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 141 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "24.03 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.064GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM, Stereo, Recording option",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-LIV-10_id8098",
+    "id": 2905,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42618-350/NIU-LIV-10.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU LIV 10",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "860 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.02 x 2.28 x 0.52 inches (102 x 58 x 13.3 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.58 oz (73.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, Blue, Red, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "128 x 160 pixels, 114 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "17.24 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-Niutek-4.0D_id8546",
+    "id": 2902,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/46139-350/NIU-Niutek-4.0D.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU Niutek 4.0D",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 8(900), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.00 x 2.48 x 0.39 inches (127 x 62.9 x 9.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.62 oz (131.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "56.93 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6572",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-400 MP1",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.25GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "0.512GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-BINGO_id7155",
+    "id": 2907,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36726-350/NIU-BINGO.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU BINGO",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.94 x 1.72 x 0.57 inches (100 x 43.8 x 14.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "1.59 oz (45.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, Purple, Blue, Red, White, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 120 pixels, 111 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "22.95 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.035GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSD up to 2 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-Niutek-4.5D_id8547",
+    "id": 2891,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/46142-350/NIU-Niutek-4.5D.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU Niutek 4.5D",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1650 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 8(900), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.42 x 2.68 x 0.41 inches (137.6 x 68 x 10.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.90 oz (139.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "854 x 480 pixels, 218 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.55 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6572",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-400 MP1",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.25GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "0.512GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-GO-50_id8097",
+    "id": 2892,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42615-350/NIU-GO-50.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU GO 50",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.25 x 1.81 x 0.54 inches (108 x 46 x 13.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.01 oz (57.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black, Blue, Red, White, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 141 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "25.37 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.032GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-Tek-5D_id9499",
+    "id": 2896,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/53926-350/NIU-Tek-5D.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU Tek 5D",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "2000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.15 x 2.92 x 0.37 inches (156.2 x 74.2 x 9.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.29 oz (150.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "854 x 480 pixels, 196 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.46 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6572M",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-400",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-Tek-4D2_id9503",
+    "id": 2899,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/53929-350/NIU-Tek-4D2.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU Tek 4D2",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.84 x 2.48 x 0.41 inches (122.9 x 63 x 10.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.36 oz (152.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Right: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Gray, Orange, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.81 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6572M",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-400",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-Tek-3.5D2_id9504",
+    "id": 2906,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/53932-350/NIU-Tek-3.5D2.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU Tek 3.5D2",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.57 x 2.40 x 0.45 inches (116 x 61 x 11.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.46 oz (98.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Green, Blue, Red, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 165 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "51.55 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6572M",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-400",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "2GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-Niutek-3.5D_id8545",
+    "id": 2895,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/46131-350/NIU-Niutek-3.5D.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU Niutek 3.5D",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1400 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "640x480 (VGA) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.65 x 2.46 x 0.53 inches (118 x 62.5 x 13.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.81 oz (108.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black, Yellow, Green, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 165 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "49.43 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MT6572",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1000 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Mali-400 MP1",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.25GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "0.512GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-PANA-TV_id7162",
+    "id": 2898,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36735-350/NIU-PANA-TV.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU PANA TV",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.37 x 2.30 x 0.53 inches (111 x 58.5 x 13.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.47 oz (70.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, Blue, Red, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 141 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "19.41 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 8 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM, Stereo, Recording option",
+          "name": "Radio:"
+        },
+        {
+          "description": "Yes",
+          "name": "Broadcast Mobile TV:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-DOMO_id7164",
+    "id": 2900,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36738-350/NIU-DOMO.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU DOMO",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.84 x 2.28 x 0.63 inches (123 x 58 x 15.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.17 oz (90.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 128 pixels, 102 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "17.68 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.096GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSD up to 2 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "FM, Internal antenna",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-Niutek-3G-3.5B_id8099",
+    "id": 2904,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42621-350/NIU-Niutek-3G-3.5B.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU Niutek 3G 3.5B",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1300 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3.2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Multiple antennas, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.47 x 2.44 x 0.54 inches (113.6 x 62 x 13.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.28 oz (93.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 165 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "51.84 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.3)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, Stereo, Recording option",
+          "name": "Radio:"
+        },
+        {
+          "description": "Analog TV",
+          "name": "Broadcast Mobile TV:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/NIU-DOMO-2_id7165",
+    "id": 2908,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36739-350/NIU-DOMO-2.jpg",
+    "manufacturer": "NIU",
+    "name": "NIU DOMO 2",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "miniUSB, USB 2.0",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.45 x 2.28 x 0.63 inches (113 x 58 x 15.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.17 oz (90.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Half QWERTY, Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 120 pixels, 111 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "15.33 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.064GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 8 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "FM, Stereo",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

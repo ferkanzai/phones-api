@@ -1,0 +1,127 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Airo-Wireless-A25is_id4513",
+    "id": 2881,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20545-350/Airo-Wireless-A25is.jpg",
+    "manufacturer": "Airo Wireless",
+    "name": "Airo Wireless A25is",
+    "rating": null,
+    "release_date": "Aug 27, 2009",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1570 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "24 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.61 x 2.68 x 0.96 inches (142.4 x 68 x 24.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "9.70 oz (275.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock, Temperature; IP67; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 143 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "25.03 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 416 MHz, Intel XScale PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "128 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "miniSD up to 2 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.1, 6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, Push-to-Talk",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

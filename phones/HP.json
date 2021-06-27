@@ -1,0 +1,4658 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-SlateBook-x2_id7854",
+    "id": 2457,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/40898-350/HP-SlateBook-x2.jpg",
+    "manufacturer": "HP",
+    "name": "HP SlateBook x2",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 480",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.22 x 8.35 x 0.8 inches (285 x 212 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "49.38 oz (1400.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Gray, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1920 pixels, 224 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "48.94 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Nvidia Tegra 4 T114",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1800 MHz, ARM Cortex-A15, 28 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Nvidia GeForce",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-iPAQ-rw6800_id1348",
+    "id": 2465,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5513-350/HP-iPAQ-rw6800.jpg",
+    "manufacturer": "HP",
+    "name": "HP iPAQ rw6800",
+    "rating": 7.3,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1530 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP (Mirror, CMOS image sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "miniUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "Infrared, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.02 x 2.28 x 0.77 inches (102 x 58 x 19.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.94 oz (140.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus, Soft keys, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 416 MHz, Intel PXA272",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.06GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "128 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (5.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones (64 voices), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 19, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "HFS-ATOM link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.56 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.26 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-IPAQ-500_id1983",
+    "id": 2460,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7999-350/HP-IPAQ-500.jpg",
+    "manufacturer": "HP",
+    "name": "HP IPAQ 500",
+    "rating": 6.5,
+    "release_date": "Feb 12, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "USB 1.1",
+          "name": "USB:"
+        },
+        {
+          "description": "VoIP, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.21 x 1.91 x 0.64 inches (107 x 48.6 x 16.3 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.60 oz (102.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 141 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "24.27 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "TI OMAP850",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 200 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.06GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "128 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Standard (6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 15, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "B94HSTNH-F13C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.64 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.91 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Slate-6-VoiceTab_id8518",
+    "id": 2467,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/45993-350/HP-Slate-6-VoiceTab.jpg",
+    "manufacturer": "HP",
+    "name": "HP Slate 6 VoiceTab",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "3000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.64 oz (160.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Left: Volume control; Right: Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Purple, Pink, Green, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 245 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Marvell PXA1088",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 12, 2014",
+          "name": "Date approved:"
+        },
+        {
+          "description": "ZW9HSTNH-B406M link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.40 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.80 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.57 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.44 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Pre3-GSM_id5200",
+    "id": 2475,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/26841-350/HP-Pre3-GSM.jpg",
+    "manufacturer": "HP",
+    "name": "HP Pre3 GSM",
+    "rating": null,
+    "release_date": "Feb 09, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1230 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 14.4 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.37 x 2.52 x 0.63 inches (111 x 64 x 16 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.50 oz (156.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 261 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "51.34 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1400 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 25, 2011",
+          "name": "Date approved:"
+        },
+        {
+          "description": "B94HHF30CE link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.47 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.41 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Slate-7-Extreme_id8152",
+    "id": 2462,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/43989-350/HP-Slate-7-Extreme.jpg",
+    "manufacturer": "HP",
+    "name": "HP Slate 7 Extreme",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "4100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "charger, cable, Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.87 x 4.72 x 0.37 inches (200 x 120 x 9.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "11.29 oz (320.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.29 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Nvidia Tegra 4 T114",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1800 MHz, ARM Cortex-A15, 28 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-iPAQ-600_id2378",
+    "id": 2458,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/8758-350/HP-iPAQ-600.jpg",
+    "manufacturer": "HP",
+    "name": "HP iPAQ 600",
+    "rating": 9.5,
+    "release_date": "Sep 05, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1590 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "220x176",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 7.2 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Yes",
+          "name": "External antenna:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.60 x 2.37 x 0.68 inches (117 x 60.3 x 17.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.11 oz (145.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Stylus, Soft keys, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Other; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 143 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "34.52 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 520 MHz, Marvell PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3)",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 28, 2007",
+          "name": "Date approved:"
+        },
+        {
+          "description": "B94HHI14CN link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.92 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.46 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-iPAQ-Voice-Messenger_id3210",
+    "id": 2464,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/11615-350/HP-iPAQ-Voice-Messenger.jpg",
+    "manufacturer": "HP",
+    "name": "HP iPAQ Voice Messenger",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1260 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 7.2 Mbit/s, HSUPA",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.49 x 1.97 x 0.54 inches (114 x 50 x 13.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.77 oz (107.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Half QWERTY, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other, Lock/Unlock key; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 167 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "31.26 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Standard (6.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 06, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "B94HHF20C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.64 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.01 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-8_id8505",
+    "id": 2470,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/48407-350/HP-8.jpg",
+    "manufacturer": "HP",
+    "name": "HP 8",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "3800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 170",
+          "name": "Price:"
+        },
+        {
+          "description": "Micro USB cable, Quick Start Guide, 10 W AC charger",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.89 x 5.37 x 0.31 inches (200.3 x 136.3 x 7.95 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "10.72 oz (304.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1024 x 768 pixels, 163 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "69.81 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Allwinner Quad-Core A31s",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1000 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "PowerVR SGX544MP2",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-iPAQ-Data-Messenger_id3211",
+    "id": 2476,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/11563-350/HP-iPAQ-Data-Messenger.jpg",
+    "manufacturer": "HP",
+    "name": "HP iPAQ Data Messenger",
+    "rating": 10,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1140 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 7.2 Mbit/s, HSUPA",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.49 x 2.24 x 0.69 inches (114 x 57 x 17.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.64 oz (160.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Lock/Unlock key; Right: Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 142 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "37.68 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Yes",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 23, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "B94HHC19C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.71 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.04 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Pre3_id5205",
+    "id": 2472,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/26859-350/HP-Pre3.jpg",
+    "manufacturer": "HP",
+    "name": "HP Pre3",
+    "rating": 9,
+    "release_date": "Feb 09, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1230 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 14.4 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.37 x 2.52 x 0.63 inches (111 x 64 x 16 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.50 oz (156.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 261 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "51.34 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 1400 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "May 10, 2011",
+          "name": "Date approved:"
+        },
+        {
+          "description": "B94HHF30CV link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.54 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "800 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.40 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-TouchPad_id5201",
+    "id": 2480,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/26850-350/HP-TouchPad.jpg",
+    "manufacturer": "HP",
+    "name": "HP TouchPad",
+    "rating": 7,
+    "release_date": "Feb 09, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "6300 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.45 x 7.45 x 0.54 inches (240 x 189 x 14 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "26.10 oz (740.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "9.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "768 x 1024 pixels, 132 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "64.15 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S3 APQ8060",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1200 MHz, Scorpion",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 220",
+          "name": "GPU:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (3.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "B94HHI30C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.16 W/kg",
+          "name": "Body:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-iPAQ-hw6500_id1112",
+    "id": 2479,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5645-350/HP-iPAQ-hw6500.jpg",
+    "manufacturer": "HP",
+    "name": "HP iPAQ hw6500",
+    "rating": 7.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Infrared, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.65 x 2.80 x 0.71 inches (118 x 71 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.80 oz (165.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus, Full keyboard, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "240 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 312 MHz, Intel PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.06GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "64 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "0.055GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (2003 SE)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 14, 2005",
+          "name": "Date approved:"
+        },
+        {
+          "description": "NM8HHH06C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.19 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.83 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Veer-4G_id5199",
+    "id": 2471,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/26867-350/HP-Veer-4G.jpg",
+    "manufacturer": "HP",
+    "name": "HP Veer 4G",
+    "rating": 7,
+    "release_date": "Feb 09, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "910 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 100",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 14.4 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Proprietary, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Headphones port, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.31 x 2.15 x 0.59 inches (84 x 54.5 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.63 oz (103.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "400 x 320 pixels, 197 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "46.34 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon S2 MSM7230",
+          "name": "System chip:"
+        },
+        {
+          "description": "Single core, 800 MHz, Scorpion",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 205",
+          "name": "GPU:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (2.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Feb 11, 2011",
+          "name": "Date approved:"
+        },
+        {
+          "description": "O8F-BROU link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.38 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.02 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-iPAQ-900_id2379",
+    "id": 2461,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/8759-350/HP-iPAQ-900.jpg",
+    "manufacturer": "HP",
+    "name": "HP iPAQ 900",
+    "rating": 9.2,
+    "release_date": "Sep 05, 2007",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1840 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "220x176",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.45 x 2.52 x 0.63 inches (113 x 64 x 16 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.15 oz (146.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard, Soft keys, Stylus, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Camera shutter, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 320 pixels, 163 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "25.90 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 520 MHz, Marvell PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "256 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3)",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Apr 17, 2008",
+          "name": "Date approved:"
+        },
+        {
+          "description": "B94HHI18C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.18 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.09 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Slate-7_id7742",
+    "id": 2463,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/40935-350/HP-Slate-7.jpg",
+    "manufacturer": "HP",
+    "name": "HP Slate 7",
+    "rating": null,
+    "release_date": "Feb 24, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 170",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.76 x 4.57 x 0.42 inches (197 x 116 x 10.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "13.05 oz (370.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Red, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "600 x 1024 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "60.27 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Dual-core, 1600 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Beats Audio",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Slate-8-Pro_id8151",
+    "id": 2468,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42910-350/HP-Slate-8-Pro.jpg",
+    "manufacturer": "HP",
+    "name": "HP Slate 8 Pro",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "€ 349",
+          "name": "Price:"
+        },
+        {
+          "description": "USB cable, AC adapter, plugs, documentation",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "8.66 x 5.57 x 0.39 inches (220 x 141.5 x 9.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "15.91 oz (451.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1600 pixels, 250 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "63.69 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass), Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Nvidia Tegra 4 T114",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1800 MHz, ARM Cortex-A15, 28 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "TV-out",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Slate-6-VoiceTab-II_id8998",
+    "id": 2473,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/50338-350/HP-Slate-6-VoiceTab-II.jpg",
+    "manufacturer": "HP",
+    "name": "HP Slate 6 VoiceTab II",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "3000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "charger, micro USB cable, headset, Quick Start Guide",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSPA, HSUPA",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.50 x 3.28 x 0.35 inches (165.1 x 83.2 x 8.98 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.64 oz (160.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 245 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "72.15 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Marvell PXA1088",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-ElitePad-1000_id8467",
+    "id": 2481,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/45578-350/HP-ElitePad-1000.jpg",
+    "manufacturer": "HP",
+    "name": "HP ElitePad 1000",
+    "rating": null,
+    "release_date": "Feb 23, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2.1 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE, HSPA",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.28 x 7.01 x 0.36 inches (261 x 178 x 9.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "23.99 oz (680.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Metal",
+          "name": "Materials:"
+        },
+        {
+          "description": "Yes",
+          "name": "Tablet dock:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1920 pixels, 224 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "63.62 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Scratch-resistant glass (Corning Gorilla Glass 3)",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD",
+          "name": "GPU:"
+        },
+        {
+          "description": "GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-iPAQ-h6300_id871",
+    "id": 2456,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/7534-350/HP-iPAQ-h6300.jpg",
+    "manufacturer": "HP",
+    "name": "HP iPAQ h6300",
+    "rating": 7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "Infrared, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.68 x 2.91 x 0.78 inches (118.87 x 74 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.70 oz (190.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus, Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Other; Right: Volume control, Camera shutter",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "320 x 240 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 168 MHz, TI OMAP 1510",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.06GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "64 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "0.055GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "SD, MMC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (2003)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Jun 14, 2004",
+          "name": "Date approved:"
+        },
+        {
+          "description": "GKRP5TH6300 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.47 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "0.46 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-iPAQ-hw6900_id1478",
+    "id": 2459,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/5646-350/HP-iPAQ-hw6900.jpg",
+    "manufacturer": "HP",
+    "name": "HP iPAQ hw6900",
+    "rating": 7.3,
+    "release_date": "Feb 13, 2006",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "1.3 MP (Mirror)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "1.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Infrared, Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.65 x 2.80 x 0.71 inches (118 x 71 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.33 oz (180.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus, Full keyboard, Soft keys, Notification light",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 240 pixels, 113 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "34.56 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 416 MHz, Intel PXA270",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.06GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "0.045GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "miniSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (5.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "2.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3)",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-TouchPad-4G_id5709",
+    "id": 2466,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/29723-350/HP-TouchPad-4G.jpg",
+    "manufacturer": "HP",
+    "name": "HP TouchPad 4G",
+    "rating": null,
+    "release_date": "Jul 12, 2011",
+    "specs": {
+      "Battery": [
+        {
+          "description": "6300 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1.3 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 21.1 Mbit/s, HSPA, UMTS, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.45 x 7.45 x 0.54 inches (240 x 189 x 14 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "26.10 oz (740.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "9.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "768 x 1024 pixels, 132 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "64.15 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Dual-core, 1500 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "webOS (3.0)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Elite-x3_id9967",
+    "id": 2469,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/60501-350/HP-Elite-x3.jpg",
+    "manufacturer": "HP",
+    "name": "HP Elite x3",
+    "rating": null,
+    "release_date": "Feb 21, 2016",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qualcomm Quick Charge 3.0, Qi and Powermat wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "16 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900), 4(AWS-1), 5(850), 13(700 c)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "LTE",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Shared with microSD",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Video out, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Hall (for flip covers), Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.37 x 3.29 x 0.31 inches (161.8 x 83.5 x 7.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.88 oz (195.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust; IP67; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Iris scanner, Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "6.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2560 x 1440 pixels, 493 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "72.43 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 4), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 820 MSM8996",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 2150 MHz, Kryo, 64-bit, 14 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 530",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 2000 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10 Mobile)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share, SlimPort",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-ProPad-600_id8466",
+    "id": 2474,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/45576-350/HP-ProPad-600.jpg",
+    "manufacturer": "HP",
+    "name": "HP ProPad 600",
+    "rating": null,
+    "release_date": "Feb 23, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "8380 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "AC charger, Quick start guide, Office COA card",
+          "name": "In The Box:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.22 x 7.16 x 0.39 inches (259.6 x 181.8 x 9.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "23.00 oz (652.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1920 pixels, 224 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "62.65 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass), Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom Z3795",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1600 MHz, 64-bit, 22 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-Slate-7-VoiceTab_id8519",
+    "id": 2477,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/48406-350/HP-Slate-7-VoiceTab.jpg",
+    "manufacturer": "HP",
+    "name": "HP Slate 7 VoiceTab",
+    "rating": 8,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "4100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.46 oz (325.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Right: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Purple, Pink, Green, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "7.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 800 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Marvell PXA1088",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/HP-iPAQ-Glisten_id3730",
+    "id": 2478,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/18940-350/HP-iPAQ-Glisten.jpg",
+    "manufacturer": "HP",
+    "name": "HP iPAQ Glisten",
+    "rating": 8.2,
+    "release_date": "Nov 24, 2009",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1590 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "3 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 3.6 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.44 x 2.47 x 0.53 inches (112.8 x 62.8 x 13.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.66 oz (132.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 320 pixels, 160 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "27.36 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "65 536",
+          "name": "Colors:"
+        },
+        {
+          "description": "Resistive",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Single core, 533 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "512 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Mobile Professional (6.5)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Vibration, Phone profiles, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Sep 01, 2009",
+          "name": "Date approved:"
+        },
+        {
+          "description": "B94HHP21C link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.59 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        },
+        {
+          "description": "1.08 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1900 MHz",
+          "name": "Measured in:"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Razer-Phone-2_id11004",
+    "id": 1975,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/73580-350/Razer-Phone-2.jpg",
+    "manufacturer": "Razer",
+    "name": "Razer Phone 2",
+    "rating": null,
+    "release_date": "Oct 10, 2018",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qualcomm Quick Charge 4+, Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 799",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Dual camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "12 MP (OIS, PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.8; Focal length: 25 mm; Sensor size: 1/2.55\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "12 MP",
+          "name": "Second camera:"
+        },
+        {
+          "description": "Optical zoom: 2.0x; Aperture size: F2.6; Sensor size: 1/3.09\"; Pixel size: 1 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (60 fps), 1920x1080 (Full HD) (60 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 14(700 PS), 17(700 b), 18(800 Lower), 19(800 Upper), 20(800 DD), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 32(1500 L-band), 66(AWS-3), 71(600)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+), 48(3600)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 3(1800), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Pro Cat 18 (1200/150 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Multiple antennas, MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Video out, Charging, Headphones port",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.76 oz (220.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "6.24 x 3.11 x 0.33 inches (158.5 x 78.99 x 8.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Back: Glass",
+          "name": "Materials:"
+        },
+        {
+          "description": "Water, Dust; IP67",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2560 x 1440 pixels, 16:9 ratio, 513 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "72.04 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "120Hz refresh rate, Oleophobic coating, Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 845 SDM845",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2800 MHz, Kryo 385, 64-bit, 10 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 630",
+          "name": "GPU:"
+        },
+        {
+          "description": "8GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 1000 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (9.0 Pie, 8.1 Oreo)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Atmos, aptX-HD",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones, Vibration",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 11, 2018",
+          "name": "Date approved:"
+        },
+        {
+          "description": "RWO-RZ350259 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.58 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.58 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.58 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.12 W/kg",
+          "name": "Wireless Router:"
+        },
+        {
+          "description": "2.60 W/kg",
+          "name": "Phablet:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Razer-Phone_id10719",
+    "id": 1974,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/69851-350/Razer-Phone.jpg",
+    "manufacturer": "Razer",
+    "name": "Razer Phone",
+    "rating": 7,
+    "release_date": "Nov 01, 2017",
+    "specs": {
+      "Battery": [
+        {
+          "description": "4000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Qualcomm Quick Charge 4+",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 699",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Dual camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "12 MP (PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.8; Focal length: 25 mm; Sensor size: 1/2.6\"; Pixel size: 1.4 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "13 MP (PDAF)",
+          "name": "Second camera:"
+        },
+        {
+          "description": "Optical zoom: 2.0x; Aperture size: F2.6; Sensor size: 1/3.4\"; Pixel size: 1 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 17(700 b), 19(800 Upper), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 66(AWS-3)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 3(1800), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A, HSDPA+ (4G) 42.2 Mbit/s, HSUPA",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.2",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible)",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Video out, Charging, Headphones port",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.24 x 3.06 x 0.31 inches (158.5 x 77.7 x 8)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.95 oz (197.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Left: Volume control; Right: Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2560 x 1440 pixels, 16:9 ratio, 513 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "73.22 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "120Hz refresh rate, Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 835 MSM8998",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2450 MHz, Kryo 280, 64-bit, 10 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 540",
+          "name": "GPU:"
+        },
+        {
+          "description": "8GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 2000 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (9.0 Pie, 8.1 Oreo, 7.1 Nougat) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Atmos, Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones, Vibration",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 03, 2017",
+          "name": "Date approved:"
+        },
+        {
+          "description": "RWO-RZ350215 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.35 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.68 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.54 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.17 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  }
+]

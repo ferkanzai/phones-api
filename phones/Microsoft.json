@@ -1,0 +1,5241 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-430_id9334",
+    "id": 2184,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/52379-350/Microsoft-Lumia-430.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 430",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.2; Sensor size: 1/5\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "Resolution, 480 x 848 pixels 30 fps",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        },
+        {
+          "description": "640x480 (VGA)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.74 x 2.49 x 0.42 inches (120.5 x 63.2 x 10.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.51 oz (127.9 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Orange",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.81 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 200 8212",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 302",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Phone, 8.1",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-KIN-ONE_id4558",
+    "id": 2160,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20721-350/Microsoft-KIN-ONE.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft KIN ONE",
+    "rating": 7,
+    "release_date": "Apr 12, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1240 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 50",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "640x480 (VGA)",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS, E911",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.31 x 2.66 x 0.73 inches (84 x 68 x 19 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.90 oz (111.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 320 pixels, 154 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "36.85 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        },
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.38 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.49 W/kg",
+          "name": "Body:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-Pro-7_id11263",
+    "id": 2165,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/77454-350/Microsoft-Surface-Pro-7.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface Pro 7",
+    "rating": null,
+    "release_date": "Oct 02, 2019",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 749",
+          "name": "Price:"
+        },
+        {
+          "description": "65W Power supply, Quick start guide, Safety and warranty documents",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, ax, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.50 x 7.91 x 0.33 inches (292 x 201 x 8.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "27.94 oz (775.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Metal",
+          "name": "Materials:"
+        },
+        {
+          "description": "2D Face unlock",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Platinum, Matte Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "12.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1824 x 2736 pixels, 3:2 ratio, 267 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "76.76 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Core i3 1005G1",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 3400 MHz, 64-bit, 10 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel UHD Graphics",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Dolby Mobile",
+          "name": "Features:"
+        },
+        {
+          "description": "Mini Displayport",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Video recording",
+          "name": "Additional microphone(s):"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-535_id8989",
+    "id": 2167,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/50174-350/Microsoft-Lumia-535.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 535",
+    "rating": 7,
+    "release_date": "Nov 10, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1905 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.4; Focal length: 28 mm; Sensor size: 1/4\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "848 x 480 pixels 30 fps",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "Resolution",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.52 x 2.85 x 0.35 inches (140.2 x 72.4 x 8.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.15 oz (146.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Gray, Orange, Green, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "960 x 540 pixels, 220 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "67.90 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 200",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1200 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Phone, 8.1 Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Music recognition, Preset equalizer",
+          "name": "Features:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-Pro-6_id11016",
+    "id": 2171,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/73403-350/Microsoft-Surface-Pro-6.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface Pro 6",
+    "rating": null,
+    "release_date": "Oct 03, 2018",
+    "specs": {
+      "Buyers information": [
+        {
+          "description": "$ 550",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.5 x 7.9 x 0.33 inches (292.1 x 200.7 x 8.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "27.94 oz (792.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Metal",
+          "name": "Materials:"
+        },
+        {
+          "description": "2D Face unlock",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Black, Gray",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "12.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1824 x 2736 pixels, 267 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "76.86 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Core i7 8650U",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1900 MHz, 64-bit, 14 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel UHD Graphics 620",
+          "name": "GPU:"
+        },
+        {
+          "description": "16GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "1000GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Mini Displayport",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-950-XL_id9545",
+    "id": 2175,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/56715-350/Microsoft-Lumia-950-XL.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 950 XL",
+    "rating": 7,
+    "release_date": "Oct 06, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3340 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Fast charging, Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 649",
+          "name": "Price:"
+        },
+        {
+          "description": "USB-C charger, USB-C to USB-A 3.1 Cable, Documentation",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "20 MP (OIS, Autofocus, BSI sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.9; Focal length: 26 mm; Sensor size: 1/2.4\"; Pixel size: 1.12 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (60 fps), 1280x720 (HD) (120 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, Continuous autofocus, Video light, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 17(700 b), 20(800 DD), 28(700 APT)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 40(2300), 41(2600+)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 6 (300/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, OTG, Video out",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, BeiDou, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, UMA (Wi-Fi Calling), Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.98 x 3.09 x 0.32 inches (151.9 x 78.4 x 8.1 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.82 oz (165.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Iris scanner",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Camera shutter, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2560 x 1440 pixels, 16:9 ratio, 518 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "74.15 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 4), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 810 MSM8994",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2000 MHz, ARM Cortex-A57 and ARM Cortex-A53, 64-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 430",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 200 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10 Mobile) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share, SlimPort",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        },
+        {
+          "description": "for Noise cancellation, Video recording",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 05, 2015",
+          "name": "Date approved:"
+        },
+        {
+          "description": "PYARM-1085 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.59 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.48 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.58 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.13 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-Pro_id7190",
+    "id": 2179,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36794-350/Microsoft-Surface-Pro.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface Pro",
+    "rating": 8.5,
+    "release_date": "Jun 18, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 899",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "1 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD) (29 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Multiple antennas, MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.81 x 6.81 x 0.53 inches (275 x 173 x 13 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "32.00 oz (907.2 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1080 x 1920 pixels, 208 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "65.22 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass, Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Core i5 3317U",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1700 MHz, 64-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD 4000",
+          "name": "GPU:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8 Pro) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "TV-out",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-540-Dual_id9360",
+    "id": 2182,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/52730-350/Microsoft-Lumia-540-Dual.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 540 Dual",
+    "rating": 9,
+    "release_date": "Apr 14, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus, BSI sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.2; Focal length: 28 mm; Sensor size: 1/4\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "Resolution, 848 x 480 pixels 30 fps",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "Resolution",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.67 x 2.90 x 0.37 inches (144 x 73.7 x 9.4 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.36 oz (152.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Orange, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 294 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "64.97 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 200",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1200 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Phone, 8.1",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-950_id9544",
+    "id": 2164,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/56704-350/Microsoft-Lumia-950.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 950",
+    "rating": 7,
+    "release_date": "Oct 06, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Fast charging, Qi wireless charging",
+          "name": "Charging:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "20 MP (OIS, Autofocus, BSI sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F1.9; Focal length: 26 mm; Sensor size: 1/2.4\"; Pixel size: 1.12 μm",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (60 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "OIS, Continuous autofocus, Video light, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 17(700 b), 20(800 DD), 28(700 APT)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 40(2300)",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Cat 6 (300/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; MIMO, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Video out, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, BeiDou, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Barometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, UMA (Wi-Fi Calling), Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.71 x 2.88 x 0.32 inches (145 x 73.2 x 8.2 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.29 oz (150.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Iris scanner",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Camera shutter, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2560 x 1440 pixels, 565 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "69.77 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 808 MSM8992",
+          "name": "System chip:"
+        },
+        {
+          "description": "Hexa-core, 1800 MHz, ARM Cortex-A57 and ARM Cortex-A53, 64-bit",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 418",
+          "name": "GPU:"
+        },
+        {
+          "description": "3GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 200 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10 Mobile) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share, MHL",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation, Video recording",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Nov 11, 2015",
+          "name": "Date approved:"
+        },
+        {
+          "description": "PYASTT link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.87 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.93 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.60 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "1.24 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-Pro-3_id8674",
+    "id": 2166,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47163-350/Microsoft-Surface-Pro-3.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface Pro 3",
+    "rating": null,
+    "release_date": "May 20, 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 1949",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.5 x 7.93 x 0.36 inches (292 x 201 x 9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "28.16 oz (798.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Metal",
+          "name": "Materials:"
+        },
+        {
+          "description": "Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Gray",
+          "name": "Colors:"
+        },
+        {
+          "description": "Yes",
+          "name": "Tablet dock:"
+        },
+        {
+          "description": "USB",
+          "name": "Dock Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "12.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1440 x 2160 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "72.88 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Core i7",
+          "name": "System chip:"
+        },
+        {
+          "description": "Intel HD",
+          "name": "GPU:"
+        },
+        {
+          "description": "8GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "512GB, available to use: 450 GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1 Pro)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Mini Displayport",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-550_id9547",
+    "id": 2170,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/56724-350/Microsoft-Lumia-550.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 550",
+    "rating": null,
+    "release_date": "Oct 06, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.4; Focal length: 28 mm; Sensor size: 1/4\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1280x720 (HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Continuous autofocus, Video light, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "640x480 (VGA)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 3(1800), 7(2600), 8(900), 20(800 DD)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, BeiDou, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.36 x 2.67 x 0.39 inches (136.1 x 67.8 x 9.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.01 oz (141.9 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 314 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "65.40 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 210 8909",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1100 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 304",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 200 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10 Mobile)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "FCC approval:"
+        },
+        {
+          "description": "Oct 22, 2015",
+          "name": "Date approved:"
+        },
+        {
+          "description": "PYARM-1128 link",
+          "name": "FCC ID value:"
+        },
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "0.77 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.77 W/kg",
+          "name": "Body:"
+        },
+        {
+          "description": "1.36 W/kg",
+          "name": "Simultaneous Transmission:"
+        },
+        {
+          "description": "0.86 W/kg",
+          "name": "Wireless Router:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-Go_id10933",
+    "id": 2174,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/72565-350/Microsoft-Surface-Go.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface Go",
+    "rating": null,
+    "release_date": "Jul 09, 2018",
+    "specs": {
+      "Buyers information": [
+        {
+          "description": "$ 550",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "9.65 x 6.89 x 0.33 inches (245 x 175 x 8.3 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "18.41 oz (522.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Metal",
+          "name": "Materials:"
+        },
+        {
+          "description": "2D Face unlock",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Silver",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1200 x 1800 pixels, 216 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "69.42 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Pentium 4415Y",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1600 MHz, 64-bit, 14 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD Graphics 615",
+          "name": "GPU:"
+        },
+        {
+          "description": "8GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-Pro-2017_id10625",
+    "id": 2178,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/68737-350/Microsoft-Surface-Pro-2017.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface Pro (2017)",
+    "rating": null,
+    "release_date": "May 23, 2017",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 2699",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.50 x 7.93 x 0.33 inches (292.10 x 201.42 x 8.45 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "27.65 oz (784.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Metal",
+          "name": "Materials:"
+        },
+        {
+          "description": "Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Gray",
+          "name": "Colors:"
+        },
+        {
+          "description": "Yes",
+          "name": "Tablet dock:"
+        },
+        {
+          "description": "Keyboard, Backlit keyboard, Touchpad",
+          "name": "Dock Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "12.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1824 x 2736 pixels, 267 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "76.57 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 4), Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Core-i7",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 2500 MHz, 64-bit, 14 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel Iris Plus 640",
+          "name": "GPU:"
+        },
+        {
+          "description": "16GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "1000GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10 Pro)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Mini Displayport",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-2_id8155",
+    "id": 2180,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42924-350/Microsoft-Surface-2.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface 2",
+    "rating": 8,
+    "release_date": "Sep 23, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 449",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "3.5 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, dual-band; Multiple antennas, MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.81 x 6.79 x 0.35 inches (275 x 172 x 9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "23.84 oz (675.8 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1080 x 1920 pixels, 208 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "65.41 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass, Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 4 T114",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1700 MHz, ARM Cortex-A15, 28 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (RT 8.1) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "TV-out",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation, Video recording",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-435_id9092",
+    "id": 2185,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/51138-350/Microsoft-Lumia-435.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 435",
+    "rating": null,
+    "release_date": "Jan 14, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1560 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 80",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.7; Focal length: 36 mm; Sensor size: 1/5\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "800x480 (WVGA) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        },
+        {
+          "description": "640x480 (VGA)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 5(850), 8(900), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.65 x 2.55 x 0.46 inches (118.1 x 64.7 x 11.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.73 oz (134.1 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive control keys, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Orange, Green, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.53 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 200 8210",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 302",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Phone, 8.1",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM, RDS",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, (MP3)",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-Duo_id11482",
+    "id": 2161,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/79863-350/Microsoft-Surface-Duo.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface Duo",
+    "rating": 6.5,
+    "release_date": "Aug 12, 2020",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3577 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        },
+        {
+          "description": "Fast charging",
+          "name": "Charging:"
+        },
+        {
+          "description": "Wired: 18.0W",
+          "name": "Max charge speed:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 1399",
+          "name": "Price:"
+        },
+        {
+          "description": "Bumper (Color: Glacier), Power Supply (18w), Quick Start Guide, Warranty and Compliance Guide, SIM Ejector tool",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera, Doubles as a selfie camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "11 MP (PDAF)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0",
+          "name": "Specifications:"
+        },
+        {
+          "description": "3840x2160 (4K UHD) (60 fps), 1920x1080 (Full HD) (60 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "EIS",
+          "name": "Features:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 12(700 a), 13(700 c), 14(700 PS), 19(800 Upper), 20(800 DD), 25(1900+), 26(850+), 28(700 APT), 29(700 d), 30(2300 WCS), 66(AWS-3)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 38(2600), 39(1900+), 40(2300), 41(2600+), 46",
+          "name": "LTE (TDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE-A Pro Cat 18 (1200/150 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "Dual SIM:"
+        },
+        {
+          "description": "Nano SIM, eSIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "5.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band; Wi-Fi Direct, Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Type-C (reversible), USB 3.1",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, Headphones port, Video out",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Galileo, BeiDou, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass, Hall (for flip covers), Heart rate",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "7.48 x 5.72 x 0.19 inches (190 x 145.3 x 4.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "145.2 x 93.3 x 9.9 mm",
+          "name": "Folded:"
+        },
+        {
+          "description": "8.82 oz (250.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Glass (Corning Gorilla Glass 5)",
+          "name": "Materials:"
+        },
+        {
+          "description": "Fingerprint (touch)",
+          "name": "Biometrics:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Glacier",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "8.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "2700 x 1800 pixels, 3:2 ratio, 401 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "71.93 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "360° folding, Scratch-resistant glass (Corning Gorilla Glass 5), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        },
+        {
+          "description": "5.6 inches, 1800 x 1350 pixels, AMOLED, Scratch-resistant glass (Corning Gorilla Glass 5), Part of the main display",
+          "name": "Front cover display:"
+        },
+        {
+          "description": "5.6 inches, 1350 pixels 1800 x, AMOLED, Scratch-resistant glass (Corning Gorilla Glass 5), Part of the main display",
+          "name": "Rear cover display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 855 SM8150",
+          "name": "System chip:"
+        },
+        {
+          "description": "Octa-core, 2840 MHz, Kryo 485, 64-bit, 7 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 640",
+          "name": "GPU:"
+        },
+        {
+          "description": "6GB LPDDR4",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB (UFS 3.0), not expandable",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (10)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "aptX",
+          "name": "Features:"
+        },
+        {
+          "description": "Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-Pro-4_id9703",
+    "id": 2162,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/56729-350/Microsoft-Surface-Pro-4.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface Pro 4",
+    "rating": 7,
+    "release_date": "Oct 06, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.50 x 7.93 x 0.33 inches (292.10 x 201.42 x 8.45 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "27.73 oz (786.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Metal",
+          "name": "Materials:"
+        },
+        {
+          "description": "Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Gray",
+          "name": "Colors:"
+        },
+        {
+          "description": "Yes",
+          "name": "Tablet dock:"
+        },
+        {
+          "description": "Keyboard, Backlit keyboard, Touchpad",
+          "name": "Dock Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "12.3 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1824 x 2736 pixels, 267 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "76.57 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Scratch-resistant glass (Corning Gorilla Glass 4)",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Core-i7",
+          "name": "System chip:"
+        },
+        {
+          "description": "Intel Iris 540",
+          "name": "GPU:"
+        },
+        {
+          "description": "16GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "1000GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10 Pro)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "Mini Displayport",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "Yes",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-KIN-ONE-GSM_id4560",
+    "id": 2163,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20726-350/Microsoft-KIN-ONE-GSM.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft KIN ONE GSM",
+    "rating": null,
+    "release_date": "Apr 12, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1240 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "640x480 (VGA)",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "240 x 320 pixels, 154 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-640-XL_id9280",
+    "id": 2169,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/52065-350/Microsoft-Lumia-640-XL.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 640 XL",
+    "rating": 8,
+    "release_date": "Mar 02, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "3000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 245 / € 219",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "13 MP (Autofocus, BSI sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.0; Focal length: 28 mm; Sensor size: 1/3\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Continuous autofocus, Video light",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 2(1900), 3(1800), 4(AWS-1), 5(850), 7(2600), 8(900), 17(700 b)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "6.22 x 3.21 x 0.35 inches (157.9 x 81.5 x 9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "6.03 oz (171.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Orange, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 259 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "69.53 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 400",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 305",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Phone, 8.1 Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA, Wireless screen share",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM, Stereo, RDS",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-650_id9942",
+    "id": 2173,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/60456-350/Microsoft-Lumia-650.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 650",
+    "rating": 6,
+    "release_date": "Feb 15, 2016",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2000 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "Product user guide, Battery, Charger",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.2; Focal length: 28 mm; Sensor size: 1/4\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1280x720 (HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Continuous autofocus, Video light, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 3(1800), 7(2600), 8(900), 20(800 DD)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Yes",
+          "name": "HD Voice:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, BeiDou, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, UMA (Wi-Fi Calling), Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.59 x 2.79 x 0.27 inches (142 x 70.9 x 6.9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.30 oz (122.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic; Frame: Aluminum",
+          "name": "Materials:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 297 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AMOLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "68.49 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 212 8909 v2",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1300 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 304",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 200 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10 Mobile) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        },
+        {
+          "description": "for Noise cancellation",
+          "name": "Additional microphone(s):"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-3_id9538",
+    "id": 2176,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/54357-350/Microsoft-Surface-3.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface 3",
+    "rating": 8,
+    "release_date": "Mar 31, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 699",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "3.5 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "LTE, HSPA, HSUPA, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Nano SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n, ac, dual-band",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging, OTG",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.51 x 7.36 x 0.34 inches (267 x 187 x 8.7 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "21.92 oz (621.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Yes",
+          "name": "Tablet dock:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 1920 pixels, 214 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "69.59 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Atom x7 Z8700",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1600 MHz, 64-bit, 14 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover",
+          "name": "Features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-KIN-TWO_id4559",
+    "id": 2183,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20719-350/Microsoft-KIN-TWO.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft KIN TWO",
+    "rating": 7,
+    "release_date": "Apr 12, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1390 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 100",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS, E911",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T3",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.38 x 2.36 x 0.64 inches (111 x 60 x 16 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.70 oz (133.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "51.62 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "TTY/TDD",
+          "name": "Other features:"
+        }
+      ],
+      "Regulatory Approval": [
+        {
+          "description": "",
+          "name": "Measured SAR:"
+        },
+        {
+          "description": "1.29 W/kg",
+          "name": "Head:"
+        },
+        {
+          "description": "0.75 W/kg",
+          "name": "Body:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-Pro-2_id8154",
+    "id": 2168,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/42931-350/Microsoft-Surface-Pro-2.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface Pro 2",
+    "rating": 8.5,
+    "release_date": "Sep 23, 2013",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 899",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "1280x720 (HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes; Multiple antennas, MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.81 x 6.81 x 0.53 inches (275 x 173 x 13 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "31.99 oz (907.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Tablet dock:"
+        },
+        {
+          "description": "USB",
+          "name": "Dock Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1080 x 1920 pixels, 208 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "65.22 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass, Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Intel Core i5 4200U",
+          "name": "System chip:"
+        },
+        {
+          "description": "Dual-core, 1600 MHz, 64-bit, 22 nm",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD 4400",
+          "name": "GPU:"
+        },
+        {
+          "description": "8GB LPDDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "64GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8.1 Pro) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "TV-out",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Surface-RT_id7181",
+    "id": 2172,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/36762-350/Microsoft-Surface-RT.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Surface RT",
+    "rating": 8.5,
+    "release_date": "Jun 18, 2012",
+    "specs": {
+      "Battery": [
+        {
+          "description": "Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 500",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "1 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "Yes",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n; Multiple antennas, MIMO",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Micro HDMI (Type D)",
+          "name": "HDMI:"
+        },
+        {
+          "description": "Accelerometer, Gyroscope, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.81 x 6.77 x 0.37 inches (275 x 172 x 9 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "24.00 oz (680.4 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "768 x 1366 pixels, 148 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "65.59 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 3 T30",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1300 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "Nvidia ULP GeForce",
+          "name": "GPU:"
+        },
+        {
+          "description": "2GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (RT) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "TV-out",
+          "name": "Screen mirroring:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-640_id9253",
+    "id": 2177,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/52064-350/Microsoft-Lumia-640.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 640",
+    "rating": 7.5,
+    "release_date": "Mar 02, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "2500 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "€ 159",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus, BSI sensor)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.2; Focal length: 28 mm; Sensor size: 1/4\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "1920x1080 (Full HD) (30 fps)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Continuous autofocus, Video light, Video calling, Video sharing",
+          "name": "Features:"
+        },
+        {
+          "description": "0.9 MP",
+          "name": "Front:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 2(1900), 4(AWS-1), 5(850), 7(2600), 12(700 a), 17(700 b), 28(700 APT)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 4(1700/2100), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE Cat 4 (150/50 Mbit/s), HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass, BeiDou, Cell ID, Wi-Fi positioning",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "NFC, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M3, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.56 x 2.84 x 0.35 inches (141.3 x 72.2 x 8.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.11 oz (145.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive control keys, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Orange, Blue, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 294 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "67.65 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass (Corning Gorilla Glass 3), Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 400",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1200 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (10 Mobile) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback, Music recognition, Preset equalizer",
+          "name": "Features:"
+        },
+        {
+          "description": "DLNA",
+          "name": "Screen mirroring:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-KIN-TWO-GSM_id4561",
+    "id": 2181,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/20724-350/Microsoft-KIN-TWO-GSM.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft KIN TWO GSM",
+    "rating": null,
+    "release_date": "Apr 12, 2010",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1390 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1280x720 (HD)",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS, HSDPA 7.2 Mbit/s, HSUPA 2 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Full keyboard",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "480 x 320 pixels, 170 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "0.25GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Microsoft-Lumia-532_id9093",
+    "id": 2186,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/51146-350/Microsoft-Lumia-532.jpg",
+    "manufacturer": "Microsoft",
+    "name": "Microsoft Lumia 532",
+    "rating": 8.8,
+    "release_date": "Jan 14, 2015",
+    "specs": {
+      "Battery": [
+        {
+          "description": "1560 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "User Guide, Battery, Charger",
+          "name": "In The Box:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Aperture size: F2.4; Focal length: 28 mm; Sensor size: 1/4\"",
+          "name": "Specifications:"
+        },
+        {
+          "description": "Resolution, 848 x 480 pixels 30 fps",
+          "name": "Video recording:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Front:"
+        },
+        {
+          "description": "640x480 (VGA)",
+          "name": "Video capture:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        },
+        {
+          "description": "Bands 5(850), 8(900), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA+ (4G) 42.2 Mbit/s, HSUPA 5.76 Mbit/s",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS, Glonass",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.68 x 2.58 x 0.46 inches (118.9 x 65.5 x 11.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.81 oz (136.3 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Touch sensitive control keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Orange, Green, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 233 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "58.46 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Qualcomm Snapdragon 200 8212",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1200 MHz, ARM Cortex-A7",
+          "name": "Processor:"
+        },
+        {
+          "description": "Adreno 302",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB LPDDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 128 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows Phone, 8.1",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "FM, Stereo, RDS",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording, TTY/TDD",
+          "name": "Other features:"
+        }
+      ]
+    }
+  }
+]

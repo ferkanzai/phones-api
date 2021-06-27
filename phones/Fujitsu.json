@@ -1,0 +1,334 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Fujitsu-STYLISTIC-M532_id7420",
+    "id": 2871,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/37640-350/Fujitsu-STYLISTIC-M532.jpg",
+    "manufacturer": "Fujitsu",
+    "name": "Fujitsu STYLISTIC M532",
+    "rating": 7,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "3170 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Polymer, Not user replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 549",
+          "name": "Price:"
+        },
+        {
+          "description": "12 Months",
+          "name": "Warranty period:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "HSPA",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "3.0, EDR",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, OTG, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "10.34 x 6.91 x 0.34 inches (262.6 x 175.4 x 8.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "19.75 oz (560.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Yes; MIL-STD-810 certified",
+          "name": "Resistance:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "10.1 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 1280 pixels, 149 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "64.17 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Scratch-resistant glass, Ambient light sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "NVIDIA Tegra 3 T30S",
+          "name": "System chip:"
+        },
+        {
+          "description": "Quad-core, 1400 MHz, ARM Cortex-A9",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "1GB DDR2",
+          "name": "RAM:"
+        },
+        {
+          "description": "32GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.0.3) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Fujitsu-STYLISTIC-Q702_id7773",
+    "id": 2870,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/39884-350/Fujitsu-STYLISTIC-Q702.jpg",
+    "manufacturer": "Fujitsu",
+    "name": "Fujitsu STYLISTIC Q702",
+    "rating": 5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "3150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera Camera samples",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "1920x1080 (Full HD)",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Other",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 a, b, g, n",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "Full-size USB, USB 3.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "11.89 x 7.68 x 0.50 inches (302 x 195 x 13 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "29.92 oz (848.2 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "11.6 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "768 x 1366 pixels, 135 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "AH-IPS",
+          "name": "Technology:"
+        },
+        {
+          "description": "62.95 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Dual-core, 1800 MHz, Intel Core i5-3427U",
+          "name": "Processor:"
+        },
+        {
+          "description": "Intel HD 4000",
+          "name": "GPU:"
+        },
+        {
+          "description": "GB DDR3",
+          "name": "RAM:"
+        },
+        {
+          "description": "128GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "SD, SDHC",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Tablet",
+          "name": "Device type:"
+        },
+        {
+          "description": "Windows (8 Pro) Screenshots",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Multiple speakers",
+          "name": "Speakers:"
+        },
+        {
+          "description": "TV-out",
+          "name": "Screen mirroring:"
+        }
+      ]
+    }
+  }
+]

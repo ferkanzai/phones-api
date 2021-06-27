@@ -1,0 +1,327 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/TAG-Heuer-LINK_id7023",
+    "id": 2785,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35458-350/TAG-Heuer-LINK.jpg",
+    "manufacturer": "TAG Heuer",
+    "name": "TAG Heuer LINK",
+    "rating": 6,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1400 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 2(1900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "HSDPA 7.2 Mbit/s, HSUPA, UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.65 x 2.64 x 0.65 inches (118 x 67 x 16.6 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "7.05 oz (200.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Shock",
+          "name": "Resistance:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "3.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "800 x 480 pixels, 267 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "44.02 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "16 777 216",
+          "name": "Colors:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Proximity sensor, Scratch-resistant glass",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "1000 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (2.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/TAG-Heuer-MERIDIIST_id7024",
+    "id": 2786,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35460-350/TAG-Heuer-MERIDIIST.jpg",
+    "manufacturer": "TAG Heuer",
+    "name": "TAG Heuer MERIDIIST",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "950 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "USB 1.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device",
+          "name": "Features:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.41 x 1.81 x 0.61 inches (112 x 46 x 15.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.47 oz (155.0 g)",
+          "name": "Weight:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.9 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 211 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "21.71 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "262 144",
+          "name": "Colors:"
+        },
+        {
+          "description": "16 pixels 96 x, OLED",
+          "name": "Additional display:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "2GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/TAG-Heuer-Meridiist-Infinite_id8578",
+    "id": 2784,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/46491-350/TAG-Heuer-Meridiist-Infinite.jpg",
+    "manufacturer": "TAG Heuer",
+    "name": "TAG Heuer Meridiist Infinite",
+    "rating": null,
+    "release_date": "June 2014",
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Back: Metal",
+          "name": "Materials:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 167 PPI",
+          "name": "Resolution:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "8GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        }
+      ]
+    }
+  }
+]

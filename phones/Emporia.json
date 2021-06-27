@@ -1,0 +1,1967 @@
+[
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-CAREplus_id8203",
+    "id": 3490,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/43698-350/Emporia-CAREplus.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia CAREplus",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1750 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.80 x 2.17 x 0.71 inches (122 x 55 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.63 oz (103.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Lock/Unlock key",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 128 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "22.67 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-SOLID_id5832",
+    "id": 3492,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30146-350/Emporia-SOLID.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia SOLID",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1450 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.29 x 1.97 x 0.55 inches (109 x 50 x 14 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.25 oz (92.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Yes; IP54; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Yellow, Green, White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "128 x 160 pixels",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-ELEGANCE-plus_id5831",
+    "id": 3496,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30144-350/Emporia-ELEGANCE-plus.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia ELEGANCE plus",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.29 x 1.97 x 0.55 inches (109 x 50 x 14 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.25 oz (92.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Lock/Unlock key, Other; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "128 x 160 pixels, 114 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "18.70 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-SAFETYpremium_id6997",
+    "id": 3500,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35225-350/Emporia-SAFETYpremium.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia SAFETYpremium",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Lock/Unlock key; Right: Other",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-SMART_id9790",
+    "id": 3502,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/58318-350/Emporia-SMART.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia SMART",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "2600 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Buyers information": [
+        {
+          "description": "$ 275",
+          "name": "Price:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        },
+        {
+          "description": "Video calling",
+          "name": "Features:"
+        },
+        {
+          "description": "1 MP",
+          "name": "Front:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Accelerometer, Compass",
+          "name": "Sensors:"
+        },
+        {
+          "description": "Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        },
+        {
+          "description": "M4, T4",
+          "name": "Hearing aid compatible:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.43 x 2.74 x 0.39 inches (138 x 69.5 x 10 mm )",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.48 oz (127.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Stylus, Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control; Back: Other",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "4.5 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "940 x 560 pixels, 243 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "59.84 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Capacitive, Multi-touch",
+          "name": "Touchscreen:"
+        },
+        {
+          "description": "Ambient light sensor, Proximity sensor",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Quad-core, 1200 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "4GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDXC up to 64 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (4.4.2)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "Album art cover, Background playback",
+          "name": "Features:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones (MP3), Polyphonic ringtones, Vibration, Flight mode, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing, Voice commands, Voice recording",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-SAFETYplus_id6542",
+    "id": 3505,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/32879-350/Emporia-SAFETYplus.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia SAFETYplus",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.80 x 2.17 x 0.71 inches (122 x 55 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-TALKsmart_id11073",
+    "id": 3510,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/74716-350/Emporia-TALKsmart.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia TALKsmart",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1400 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "5 MP (Autofocus)",
+          "name": "Main camera:"
+        },
+        {
+          "description": "Yes",
+          "name": "Video recording:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 3(1800), 7(2600), 8(900), 20(800 DD)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Yes",
+          "name": "VoLTE:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "802.11 b, g, n; Hotspot, Wi-Fi Direct",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Headphones port, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS, A-GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "VoIP, Tethering, Computer sync, OTA sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.82 x 2.01 x 0.58 inches (122.5 x 51 x 14.8 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.60 oz (102.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Back: Plastic",
+          "name": "Materials:"
+        },
+        {
+          "description": "Splash, Dust; IP54",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Yes",
+          "name": "GPU:"
+        },
+        {
+          "description": "0.5GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "4 MB",
+          "name": "ROM:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "No 3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Haptic feedback, Music ringtones, Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-Glam_id8673",
+    "id": 3489,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47169-350/Emporia-Glam.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia Glam",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1020 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.09 x 2.05 x 0.67 inches (104 x 52 x 17 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad",
+          "name": "Features:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "320 x 240 pixels, 167 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "32.98 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MTK6260A",
+          "name": "System chip:"
+        },
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones (21 voices), Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-eco_id8676",
+    "id": 3491,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47177-350/Emporia-eco.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia eco",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1020 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "0.3 MP VGA",
+          "name": "Main camera:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "miniUSB",
+          "name": "USB:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.88 x 1.89 x 0.49 inches (124 x 48 x 12.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "2.47 oz (70.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.2 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 128 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "25.60 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "MediaTek MTK6260M",
+          "name": "System chip:"
+        },
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        },
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        },
+        {
+          "description": "FM",
+          "name": "Radio:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-CLICK_id6543",
+    "id": 3499,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/32891-350/Emporia-CLICK.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia CLICK",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "3.90 x 2.01 x 0.67 inches (99 x 51 x 17 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Numeric keypad, Notification light",
+          "name": "Features:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-CONNECT_id6999",
+    "id": 3501,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/35229-350/Emporia-CONNECT.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia CONNECT",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1150 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Main camera:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "UMTS",
+          "name": "Data Speed:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "2.1",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "USB:"
+        },
+        {
+          "description": "A-GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.25 x 2.09 x 0.79 inches (108 x 53 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.88 oz (110.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control; Right: Camera shutter, Other",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "400 x 240 pixels, 167 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "TFT",
+          "name": "Technology:"
+        },
+        {
+          "description": "38.94 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "microSD",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Silent mode, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-LIFEplus_id5829",
+    "id": 3503,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30139-350/Emporia-LIFEplus.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia LIFEplus",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.61 x 2.28 x 0.71 inches (117 x 58 x 18 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.87 oz (138.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.7 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 128 pixels, 76 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "33.83 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-TALK_id5833",
+    "id": 3508,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30147-350/Emporia-TALK.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia TALK",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.76 x 2.24 x 0.59 inches (121 x 57 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.88 oz (110.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Left: Volume control, Lock/Unlock key, Other; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "64 x 128 pixels, 72 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "15.01 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-ELEGANCE_id5830",
+    "id": 3511,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30142-350/Emporia-ELEGANCE.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia ELEGANCE",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1100 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.29 x 1.97 x 0.55 inches (109 x 50 x 14 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.25 oz (92.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Lock/Unlock key, Other; Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "128 x 160 pixels, 114 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "18.70 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-TALKbasic_id8237",
+    "id": 3493,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/44219-350/Emporia-TALKbasic.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia TALKbasic",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Lock/Unlock key; Right: Other",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.6 inches",
+          "name": "Size:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-SMART.2_id10866",
+    "id": 3497,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/71540-350/Emporia-SMART.2.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia SMART.2",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "2400 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Camera": [
+        {
+          "description": "Single camera",
+          "name": "Rear:"
+        },
+        {
+          "description": "8 MP",
+          "name": "Main camera:"
+        },
+        {
+          "description": "2 MP",
+          "name": "Front:"
+        }
+      ],
+      "Cellular": [
+        {
+          "description": "Bands 1(2100), 3(1800), 7(2600), 8(900), 20(800 DD)",
+          "name": "LTE (FDD):"
+        },
+        {
+          "description": "Bands 8(900), 1(2100)",
+          "name": "UMTS:"
+        },
+        {
+          "description": "LTE, UMTS",
+          "name": "Data Speed:"
+        },
+        {
+          "description": "Micro SIM",
+          "name": "SIM type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "4.0",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "Yes",
+          "name": "Wi-Fi:"
+        },
+        {
+          "description": "microUSB, USB 2.0",
+          "name": "USB:"
+        },
+        {
+          "description": "Mass storage device, Charging",
+          "name": "Features:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        },
+        {
+          "description": "Computer sync",
+          "name": "Other:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "5.63 x 2.81 x 0.37 inches (143 x 71.5 x 9.5 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "4.48 oz (127.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key; Back: Other",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black, Blue",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "5.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "1280 x 720 pixels, 294 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "IPS LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "67.52 %",
+          "name": "Screen-to-body:"
+        },
+        {
+          "description": "Yes",
+          "name": "Touchscreen:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Quad-core, 1300 MHz",
+          "name": "Processor:"
+        },
+        {
+          "description": "2GB",
+          "name": "RAM:"
+        },
+        {
+          "description": "16GB",
+          "name": "Internal storage:"
+        },
+        {
+          "description": "microSDHC up to 32 GB",
+          "name": "Storage expansion:"
+        },
+        {
+          "description": "Smartphone",
+          "name": "Device type:"
+        },
+        {
+          "description": "Android (6.0 Marshmallow)",
+          "name": "OS:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "3.5mm jack",
+          "name": "Headphones:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Music ringtones, Polyphonic ringtones, Vibration, Flight mode, Silent mode",
+          "name": "Notifications:"
+        },
+        {
+          "description": "Voice dialing",
+          "name": "Other features:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-TALKpremium_id5828",
+    "id": 3498,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30136-350/Emporia-TALKpremium.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia TALKpremium",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.76 x 2.24 x 0.59 inches (121 x 57 x 15 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.88 oz (110.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Lock/Unlock key, Other; Right: Other",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "64 x 128 pixels, 72 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "15.01 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-TALKcomfort_id6783",
+    "id": 3507,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/34310-350/Emporia-TALKcomfort.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia TALKcomfort",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.49 x 2.17 x 0.61 inches (114 x 55 x 15.5 mm )",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "Notification light, Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control, Lock/Unlock key, Other",
+          "name": "Keys:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece, Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Silent mode",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-TIME_id5834",
+    "id": 3509,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30150-350/Emporia-TIME.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia TIME",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1200 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.92 x 2.13 x 0.67 inches (125 x 54 x 17 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.88 oz (110.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Other",
+          "name": "Keys:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "64 x 128 pixels, 72 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "STN",
+          "name": "Technology:"
+        },
+        {
+          "description": "15.27 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-SOLIDplus_id8238",
+    "id": 3494,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/44221-350/Emporia-SOLIDplus.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia SOLIDplus",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "1750 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Connectivity & Features": [
+        {
+          "description": "Yes",
+          "name": "Bluetooth:"
+        },
+        {
+          "description": "GPS",
+          "name": "Location:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.72 x 2.36 x 0.79 inches (120 x 60 x 20 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "5.01 oz (142.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Water, Dust, Shock; IP67; MIL-STD-810 certified",
+          "name": "Resistance:"
+        },
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Black, Yellow",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "160 x 128 pixels, 114 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "LCD",
+          "name": "Technology:"
+        },
+        {
+          "description": "14.19 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Vibration",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-RL1_id5827",
+    "id": 3495,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/30135-350/Emporia-RL1.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia RL1",
+    "rating": 6.5,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "800 mAh",
+          "name": "Capacity:"
+        },
+        {
+          "description": "Li - Ion, User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "4.29 x 1.97 x 0.55 inches (109 x 50 x 14 mm)",
+          "name": "Dimensions:"
+        },
+        {
+          "description": "3.25 oz (92.0 g)",
+          "name": "Weight:"
+        },
+        {
+          "description": "Numeric keypad, Soft keys, D-Pad, Notification light",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control, Other; Right: Lock/Unlock key, Other",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "1.8 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "128 x 160 pixels, 114 PPI",
+          "name": "Resolution:"
+        },
+        {
+          "description": "OLED",
+          "name": "Technology:"
+        },
+        {
+          "description": "18.70 %",
+          "name": "Screen-to-body:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Feature phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Earpiece",
+          "name": "Speakers:"
+        }
+      ],
+      "Phone features": [
+        {
+          "description": "Polyphonic ringtones, Vibration, Speakerphone",
+          "name": "Notifications:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-FLIP-basic_id8675",
+    "id": 3506,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47172-350/Emporia-FLIP-basic.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia FLIP basic",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Numeric keypad, Soft keys",
+          "name": "Features:"
+        },
+        {
+          "description": "Right: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "White",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.4 inches",
+          "name": "Size:"
+        },
+        {
+          "description": "220 x 176 pixels, 117 PPI",
+          "name": "Resolution:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        }
+      ]
+    }
+  },
+  {
+    "device_url": "https://www.phonearena.com/phones/Emporia-Pure_id8677",
+    "id": 3504,
+    "image_url": "https://m-cdn.phonearena.com/images/phones/47178-350/Emporia-Pure.jpg",
+    "manufacturer": "Emporia",
+    "name": "Emporia Pure",
+    "rating": null,
+    "release_date": null,
+    "specs": {
+      "Battery": [
+        {
+          "description": "User replaceable",
+          "name": "Type:"
+        }
+      ],
+      "Design": [
+        {
+          "description": "Numeric keypad",
+          "name": "Features:"
+        },
+        {
+          "description": "Left: Volume control",
+          "name": "Keys:"
+        },
+        {
+          "description": "Black",
+          "name": "Colors:"
+        }
+      ],
+      "Display": [
+        {
+          "description": "2.0 inches",
+          "name": "Size:"
+        }
+      ],
+      "Hardware": [
+        {
+          "description": "Basic phone",
+          "name": "Device type:"
+        }
+      ],
+      "Multimedia": [
+        {
+          "description": "Loudspeaker",
+          "name": "Speakers:"
+        }
+      ]
+    }
+  }
+]
