@@ -10,7 +10,7 @@ module.exports = (db) => async (req, res, next) => {
       throw result;
     }
 
-    res.status(200).json({
+    res.status(204).json({
       success: true,
     });
   } catch (error) {
